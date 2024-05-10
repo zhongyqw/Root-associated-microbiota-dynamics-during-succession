@@ -1,0 +1,1041 @@
+	SampleID	Compartment	Cultivar	Site	Group	Type	Age	Phylum2	RA
+1	L151	Soil	Soil	AL	L15	NA	15	Fibrobacteres	6.79E-05
+2	L152	Soil	Soil	AL	L15	NA	15	Fibrobacteres	2.72E-05
+3	L153	Soil	Soil	AL	L15	NA	15	Fibrobacteres	5.47E-05
+4	L154	Soil	Soil	AL	L15	NA	15	Fibrobacteres	4.11E-05
+5	L21	Soil	Soil	AL	L2	NA	2	Fibrobacteres	0.00029378
+6	L22	Soil	Soil	AL	L2	NA	2	Fibrobacteres	9.80E-05
+7	L23	Soil	Soil	AL	L2	NA	2	Fibrobacteres	6.98E-05
+8	L24	Soil	Soil	AL	L2	NA	2	Fibrobacteres	2.85E-05
+9	L251	Soil	Soil	AL	L25	NA	25	Fibrobacteres	4.07E-05
+10	L252	Soil	Soil	AL	L25	NA	25	Fibrobacteres	2.76E-05
+11	L253	Soil	Soil	AL	L25	NA	25	Fibrobacteres	3.42E-05
+12	L254	Soil	Soil	AL	L25	NA	25	Fibrobacteres	0.000120706
+13	L401	Soil	Soil	AL	L40	NA	40	Fibrobacteres	2.69E-05
+14	L402	Soil	Soil	AL	L40	NA	40	Fibrobacteres	8.05E-05
+15	L403	Soil	Soil	AL	L40	NA	40	Fibrobacteres	0.000108086
+16	L404	Soil	Soil	AL	L40	NA	40	Fibrobacteres	8.09E-05
+17	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Fibrobacteres	9.42E-05
+18	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Fibrobacteres	0.000227839
+19	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Fibrobacteres	0.000107038
+20	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Fibrobacteres	8.07E-05
+25	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Fibrobacteres	8.03E-05
+26	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Fibrobacteres	9.48E-05
+27	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Fibrobacteres	0.000176128
+28	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Fibrobacteres	8.05E-05
+33	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Fibrobacteres	0.000333329
+34	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Fibrobacteres	0.000106781
+35	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Fibrobacteres	0.000172563
+36	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Fibrobacteres	5.01E-05
+41	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Fibrobacteres	9.43E-05
+42	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Fibrobacteres	0.000213641
+43	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Fibrobacteres	1.32E-05
+44	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Fibrobacteres	4.05E-05
+49	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Fibrobacteres	0.000202175
+50	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Fibrobacteres	5.37E-05
+51	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Fibrobacteres	2.69E-05
+52	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Fibrobacteres	0.000133419
+57	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Fibrobacteres	8.04E-05
+58	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Fibrobacteres	0.000147077
+59	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Fibrobacteres	3.98E-05
+60	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Fibrobacteres	2.68E-05
+65	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Fibrobacteres	0.000143478
+66	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Fibrobacteres	9.59E-05
+67	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Fibrobacteres	0.000108597
+68	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Fibrobacteres	0.000301192
+73	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Fibrobacteres	7.15E-05
+74	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Fibrobacteres	7.53E-05
+75	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Fibrobacteres	7.15E-05
+76	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Fibrobacteres	7.53E-05
+81	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Fibrobacteres	1.47E-05
+82	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Fibrobacteres	1.47E-05
+83	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Fibrobacteres	1.56E-05
+84	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Fibrobacteres	2.45E-05
+89	L151	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.000325693
+90	L152	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.000353299
+91	L153	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.0002326
+92	L154	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.00032888
+93	L21	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.000153885
+94	L22	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.00013994
+95	L23	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.000237357
+96	L24	Soil	Soil	AL	L2	NA	2	Parcubacteria	2.85E-05
+97	L251	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.000108488
+98	L252	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.000234373
+99	L253	Soil	Soil	AL	L25	NA	25	Parcubacteria	1.26E-05
+100	L254	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.00013795
+101	L401	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000120951
+102	L402	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000415867
+103	L403	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000270215
+104	L404	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000269538
+105	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Parcubacteria	2.69E-05
+106	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Parcubacteria	2.68E-05
+107	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Parcubacteria	2.69E-05
+108	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Parcubacteria	2.69E-05
+113	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Parcubacteria	2.71E-05
+114	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Parcubacteria	0.000107312
+115	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Parcubacteria	2.71E-05
+116	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Parcubacteria	0.000107312
+121	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Parcubacteria	5.33E-05
+122	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Parcubacteria	0.000120128
+123	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Parcubacteria	9.29E-05
+124	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Parcubacteria	2.50E-05
+129	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Parcubacteria	6.74E-05
+130	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Parcubacteria	0.00010682
+131	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Parcubacteria	3.97E-05
+132	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Parcubacteria	0.000161954
+137	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Parcubacteria	0.000175219
+138	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Parcubacteria	0.000174452
+139	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Parcubacteria	9.41E-05
+140	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Parcubacteria	6.67E-05
+145	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Parcubacteria	2.68E-05
+146	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Parcubacteria	8.02E-05
+147	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Parcubacteria	3.98E-05
+148	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Parcubacteria	8.04E-05
+153	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Parcubacteria	4.30E-05
+154	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Parcubacteria	8.22E-05
+155	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Parcubacteria	6.26E-05
+156	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Parcubacteria	8.21E-05
+161	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Parcubacteria	7.21E-05
+162	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Parcubacteria	6.73E-05
+163	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Parcubacteria	8.94E-05
+164	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Parcubacteria	4.52E-05
+169	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Parcubacteria	1.41E-05
+170	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Parcubacteria	3.23E-05
+171	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Parcubacteria	1.56E-05
+172	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Parcubacteria	4.90E-05
+177	L151	Soil	Soil	AL	L15	NA	15	BRC1	0.000176417
+178	L152	Soil	Soil	AL	L15	NA	15	BRC1	0.000108707
+179	L153	Soil	Soil	AL	L15	NA	15	BRC1	0.000109459
+180	L154	Soil	Soil	AL	L15	NA	15	BRC1	0.000137033
+181	L21	Soil	Soil	AL	L2	NA	2	BRC1	0.000279791
+182	L22	Soil	Soil	AL	L2	NA	2	BRC1	0.000293875
+183	L23	Soil	Soil	AL	L2	NA	2	BRC1	0.000474714
+184	L24	Soil	Soil	AL	L2	NA	2	BRC1	0.00034946
+185	L251	Soil	Soil	AL	L25	NA	25	BRC1	0.000176293
+186	L252	Soil	Soil	AL	L25	NA	25	BRC1	9.65E-05
+187	L253	Soil	Soil	AL	L25	NA	25	BRC1	0.000150907
+188	L254	Soil	Soil	AL	L25	NA	25	BRC1	8.62E-05
+189	L401	Soil	Soil	AL	L40	NA	40	BRC1	0.000107512
+190	L402	Soil	Soil	AL	L40	NA	40	BRC1	0.000160981
+191	L403	Soil	Soil	AL	L40	NA	40	BRC1	0.000108086
+192	L404	Soil	Soil	AL	L40	NA	40	BRC1	0.000134769
+193	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	BRC1	0.000121126
+194	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	BRC1	0.000241242
+195	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	BRC1	9.37E-05
+196	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	BRC1	0.000121067
+201	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	BRC1	0.000214004
+202	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	BRC1	6.77E-05
+203	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	BRC1	9.48E-05
+204	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	BRC1	0.000120726
+209	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	BRC1	0.000146665
+210	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	BRC1	0.000133476
+211	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	BRC1	0.000185837
+212	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	BRC1	0.000175232
+217	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	BRC1	0.000309877
+218	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	BRC1	8.01E-05
+219	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	BRC1	0.000119235
+220	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	BRC1	0.000188947
+225	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	BRC1	9.43E-05
+226	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	BRC1	0.000107355
+227	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	BRC1	0.000107501
+228	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	BRC1	0.000106735
+233	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	BRC1	0.000107177
+234	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	BRC1	0.000120335
+235	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	BRC1	6.64E-05
+236	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	BRC1	9.38E-05
+241	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	BRC1	8.61E-05
+242	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	BRC1	0.00023288
+243	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	BRC1	9.50E-05
+244	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	BRC1	0.000177977
+249	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	BRC1	4.81E-05
+250	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	BRC1	5.47E-05
+251	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	BRC1	7.15E-05
+252	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	BRC1	0.000120424
+257	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	BRC1	4.24E-05
+258	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	BRC1	0.000117794
+259	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	BRC1	0.000171116
+260	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	BRC1	0.000122393
+265	L151	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.004681839
+266	L152	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.003587346
+267	L153	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.004214156
+268	L154	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.00400137
+269	L21	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.006603061
+270	L22	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.007234918
+271	L23	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.008237692
+272	L24	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.000583273
+273	L251	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.009031611
+274	L252	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.006328067
+275	L253	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.004149952
+276	L254	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.006707822
+277	L401	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.005039645
+278	L402	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.002562279
+279	L403	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.003337161
+280	L404	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.002129351
+281	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Latescibacteria	0.000901713
+282	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Latescibacteria	0.000227839
+283	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Latescibacteria	0.000187316
+284	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Latescibacteria	0.000269038
+289	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Latescibacteria	0.001551528
+290	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Latescibacteria	0.000406185
+291	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Latescibacteria	0.00063677
+292	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Latescibacteria	0.000563388
+297	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Latescibacteria	0.000999987
+298	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Latescibacteria	0.001468233
+299	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Latescibacteria	0.000703524
+300	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Latescibacteria	0.001038877
+305	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Latescibacteria	0.000943104
+306	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Latescibacteria	0.000680981
+307	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Latescibacteria	0.000185477
+308	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Latescibacteria	0.000188947
+313	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Latescibacteria	0.001105226
+314	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Latescibacteria	0.000429421
+315	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Latescibacteria	0.000765944
+316	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Latescibacteria	0.000653752
+321	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Latescibacteria	0.000589473
+322	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Latescibacteria	0.00224626
+323	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Latescibacteria	0.00059761
+324	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Latescibacteria	0.001085456
+329	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Latescibacteria	0.000143478
+330	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Latescibacteria	1.37E-05
+331	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Latescibacteria	7.86E-05
+332	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Latescibacteria	1.37E-05
+337	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Latescibacteria	0.000504638
+338	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Latescibacteria	0.000103069
+339	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Latescibacteria	0.000160938
+340	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Latescibacteria	4.52E-05
+345	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Latescibacteria	7.07E-05
+346	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Latescibacteria	0.000132519
+347	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Latescibacteria	7.78E-05
+348	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Latescibacteria	0.0003427
+353	L151	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001967729
+354	L152	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001970323
+355	L153	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001614514
+356	L154	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001849949
+357	L21	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.012310792
+358	L22	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.010957332
+359	L23	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.010918433
+360	L24	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.001010058
+361	L251	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002047708
+362	L252	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.003777539
+363	L253	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002276186
+364	L254	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002827976
+365	L401	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.005563768
+366	L402	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.009310063
+367	L403	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.005377288
+368	L404	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.004029595
+369	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Nitrospirae	0.000471044
+370	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Nitrospirae	0.000428874
+371	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Nitrospirae	0.000321113
+372	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Nitrospirae	0.001183766
+377	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Nitrospirae	0.001778907
+378	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Nitrospirae	0.000392645
+379	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Nitrospirae	0.001395475
+380	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Nitrospirae	0.000845082
+385	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Nitrospirae	0.001933308
+386	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Nitrospirae	0.00148158
+387	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Nitrospirae	0.001818544
+388	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Nitrospirae	0.001214109
+393	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Nitrospirae	0.000309877
+394	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Nitrospirae	0.00046734
+395	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Nitrospirae	0.000304712
+396	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Nitrospirae	0.000985222
+401	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Nitrospirae	0.000323481
+402	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Nitrospirae	0.000389162
+403	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Nitrospirae	0.000765944
+404	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Nitrospirae	0.000587042
+409	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Nitrospirae	0.001862197
+410	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Nitrospirae	0.002286371
+411	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Nitrospirae	0.002138114
+412	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Nitrospirae	0.002077108
+417	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Nitrospirae	8.61E-05
+418	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Nitrospirae	0.000123289
+419	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Nitrospirae	2.71E-05
+420	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Nitrospirae	0.000123215
+425	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Nitrospirae	0.000456577
+426	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Nitrospirae	2.55E-05
+427	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Nitrospirae	3.58E-05
+428	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Nitrospirae	1.51E-05
+433	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Nitrospirae	0.000141475
+434	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Nitrospirae	0.000427004
+435	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Nitrospirae	0.000404455
+436	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Nitrospirae	0.000465094
+441	L151	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.0037319
+442	L152	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.004823894
+443	L153	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.003584769
+444	L154	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.003508051
+445	L21	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.012394729
+446	L22	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.012062861
+447	L23	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.010164475
+448	L24	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.000810892
+449	L251	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00569561
+450	L252	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00656244
+451	L253	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00782203
+452	L254	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.004276452
+453	L401	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.007552748
+454	L402	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.006452651
+455	L403	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.008971154
+456	L404	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.008180483
+457	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Chloroflexi	0.001938011
+458	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Chloroflexi	0.001286622
+459	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Chloroflexi	0.00141825
+460	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Chloroflexi	0.002125399
+465	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Chloroflexi	0.001310774
+466	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Chloroflexi	0.002098622
+467	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Chloroflexi	0.001869665
+468	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Chloroflexi	0.001770647
+473	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Chloroflexi	0.002413301
+474	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Chloroflexi	0.002762947
+475	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Chloroflexi	0.003477799
+476	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Chloroflexi	0.003104113
+481	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Chloroflexi	0.001913154
+482	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Chloroflexi	0.001976179
+483	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Chloroflexi	0.001682543
+484	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Chloroflexi	0.002307848
+489	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Chloroflexi	0.002264365
+490	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Chloroflexi	0.001596908
+491	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Chloroflexi	0.002082829
+492	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Chloroflexi	0.001587683
+497	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Chloroflexi	0.002826789
+498	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Chloroflexi	0.00247356
+499	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Chloroflexi	0.002270916
+500	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Chloroflexi	0.002157512
+505	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Chloroflexi	0.002740434
+506	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Chloroflexi	0.002027425
+507	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Chloroflexi	0.000488686
+508	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Chloroflexi	0.00193037
+513	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Chloroflexi	0.002258855
+514	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Chloroflexi	0.000355833
+515	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Chloroflexi	0.002771718
+516	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Chloroflexi	0.001174133
+521	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Chloroflexi	0.000537604
+522	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Chloroflexi	0.002326437
+523	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Chloroflexi	0.00297119
+524	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Chloroflexi	0.003524919
+529	L151	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.006676709
+530	L152	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.00997391
+531	L153	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.00700535
+532	L154	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.006097979
+533	L21	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.011681262
+534	L22	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.010929344
+535	L23	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.010890509
+536	L24	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.001237677
+537	L251	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006875415
+538	L252	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.007692944
+539	L253	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006828557
+540	L254	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006138778
+541	L401	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.008775702
+542	L402	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.012180889
+543	L403	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.010565426
+544	L404	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.007708791
+545	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Armatimonadetes	0.003660687
+546	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Armatimonadetes	0.002559841
+547	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Armatimonadetes	0.00187316
+548	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Armatimonadetes	0.003147742
+553	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Armatimonadetes	0.004681335
+554	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Armatimonadetes	0.002518346
+555	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Armatimonadetes	0.00215418
+556	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Armatimonadetes	0.003018149
+561	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Armatimonadetes	0.003826616
+562	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Armatimonadetes	0.003697277
+563	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Armatimonadetes	0.004539723
+564	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Armatimonadetes	0.003404511
+569	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Armatimonadetes	0.003758943
+570	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Armatimonadetes	0.003418256
+571	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Armatimonadetes	0.002053497
+572	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Armatimonadetes	0.003441528
+577	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Armatimonadetes	0.003234807
+578	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Armatimonadetes	0.002147103
+579	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Armatimonadetes	0.003050337
+580	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Armatimonadetes	0.002668374
+585	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Armatimonadetes	0.003496644
+586	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Armatimonadetes	0.003409501
+587	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Armatimonadetes	0.005086321
+588	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Armatimonadetes	0.002814146
+593	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Armatimonadetes	0.002611303
+594	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Armatimonadetes	0.00161646
+595	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Armatimonadetes	0.000190044
+596	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Armatimonadetes	0.001902989
+601	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Armatimonadetes	0.002811554
+602	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Armatimonadetes	0.00046532
+603	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Armatimonadetes	0.003057831
+604	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Armatimonadetes	0.000933285
+609	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Armatimonadetes	0.000438572
+610	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Armatimonadetes	0.000559523
+611	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Armatimonadetes	0.001104474
+612	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Armatimonadetes	0.004797807
+617	L151	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001465619
+618	L152	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001453962
+619	L153	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001067221
+620	L154	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001397739
+621	L21	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.001021236
+622	L22	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.00079766
+623	L23	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.001689425
+624	L24	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.000725535
+625	L251	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001817171
+626	L252	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001943916
+627	L253	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.002301337
+628	L254	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001224307
+629	L401	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.000954173
+630	L402	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.001663469
+631	L403	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.002769709
+632	L404	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.002830151
+633	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Candidatus_Saccharibacteria	0.005396821
+634	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Candidatus_Saccharibacteria	0.003658831
+635	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Candidatus_Saccharibacteria	0.004977254
+636	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Candidatus_Saccharibacteria	0.003820337
+641	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Candidatus_Saccharibacteria	0.002741925
+642	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Candidatus_Saccharibacteria	0.003831677
+643	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Candidatus_Saccharibacteria	0.003929007
+644	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Candidatus_Saccharibacteria	0.003997371
+649	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Candidatus_Saccharibacteria	0.004333276
+650	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Candidatus_Saccharibacteria	0.005352376
+651	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Candidatus_Saccharibacteria	0.010698878
+652	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Candidatus_Saccharibacteria	0.008110747
+657	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Candidatus_Saccharibacteria	0.003166134
+658	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Candidatus_Saccharibacteria	0.003925653
+659	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Candidatus_Saccharibacteria	0.002874896
+660	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Candidatus_Saccharibacteria	0.003050138
+665	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Candidatus_Saccharibacteria	0.004501772
+666	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Candidatus_Saccharibacteria	0.003891625
+667	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Candidatus_Saccharibacteria	0.004017845
+668	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Candidatus_Saccharibacteria	0.003308784
+673	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Candidatus_Saccharibacteria	0.002706215
+674	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Candidatus_Saccharibacteria	0.002166036
+675	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Candidatus_Saccharibacteria	0.004209827
+676	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Candidatus_Saccharibacteria	0.00308216
+681	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Candidatus_Saccharibacteria	0.003457825
+682	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Candidatus_Saccharibacteria	0.004945273
+683	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Candidatus_Saccharibacteria	0.002104063
+684	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Candidatus_Saccharibacteria	0.003833358
+689	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Candidatus_Saccharibacteria	0.002210794
+690	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Candidatus_Saccharibacteria	0.001245415
+691	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Candidatus_Saccharibacteria	0.00200279
+692	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Candidatus_Saccharibacteria	0.002378372
+697	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Candidatus_Saccharibacteria	0.000580046
+698	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Candidatus_Saccharibacteria	0.00319517
+699	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Candidatus_Saccharibacteria	0.002551179
+700	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Candidatus_Saccharibacteria	0.001566631
+705	L151	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.019229464
+706	L152	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.013629199
+707	L153	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.021070779
+708	L154	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.017992463
+709	L21	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.00996055
+710	L22	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.009501952
+711	L23	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.010345983
+712	L24	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.001138093
+713	L251	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.016544392
+714	L252	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.013097306
+715	L253	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.011204869
+716	L254	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.010311767
+717	L401	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.012901492
+718	L402	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.007270971
+719	L403	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.012470445
+720	L404	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.011900109
+721	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	candidate_division_WPS.1	0.009272842
+722	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	candidate_division_WPS.1	0.004047498
+723	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	candidate_division_WPS.1	0.004147712
+724	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	candidate_division_WPS.1	0.00704879
+729	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	candidate_division_WPS.1	0.009790677
+730	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	candidate_division_WPS.1	0.006647892
+731	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	candidate_division_WPS.1	0.006150928
+732	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	candidate_division_WPS.1	0.008008156
+737	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	candidate_division_WPS.1	0.005586592
+738	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	candidate_division_WPS.1	0.007074212
+739	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	candidate_division_WPS.1	0.009995354
+740	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	candidate_division_WPS.1	0.007334719
+745	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	candidate_division_WPS.1	0.009916064
+746	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	candidate_division_WPS.1	0.010161299
+747	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	candidate_division_WPS.1	0.008664432
+748	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	candidate_division_WPS.1	0.010985896
+753	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	candidate_division_WPS.1	0.006833529
+754	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	candidate_division_WPS.1	0.005931373
+755	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	candidate_division_WPS.1	0.008344755
+756	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	candidate_division_WPS.1	0.005790373
+761	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	candidate_division_WPS.1	0.007033479
+762	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	candidate_division_WPS.1	0.007688091
+763	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	candidate_division_WPS.1	0.008379814
+764	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	candidate_division_WPS.1	0.006016912
+769	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	candidate_division_WPS.1	0.00289826
+770	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	candidate_division_WPS.1	0.001424677
+771	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	candidate_division_WPS.1	0.000271492
+772	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	candidate_division_WPS.1	0.001136317
+777	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	candidate_division_WPS.1	0.004085164
+778	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	candidate_division_WPS.1	0.000328461
+779	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	candidate_division_WPS.1	0.003361825
+780	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	candidate_division_WPS.1	0.0020171
+785	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	candidate_division_WPS.1	0.000410277
+786	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	candidate_division_WPS.1	0.000750939
+787	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	candidate_division_WPS.1	0.001633377
+788	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	candidate_division_WPS.1	0.002252032
+793	L151	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.008088046
+794	L152	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.007079574
+795	L153	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.007402137
+796	L154	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.00861939
+797	L21	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.027559386
+798	L22	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.026112876
+799	L23	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.034109631
+800	L24	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.002873686
+801	L251	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.004475122
+802	L252	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.010767364
+803	L253	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.010299425
+804	L254	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.00936336
+805	L401	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.036030103
+806	L402	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.020444576
+807	L403	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.033587786
+808	L404	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.031535963
+809	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Thaumarchaeota	0.002664765
+810	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Thaumarchaeota	0.00144745
+811	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Thaumarchaeota	0.002408349
+812	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Thaumarchaeota	0.005178977
+817	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Thaumarchaeota	0.004453956
+818	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Thaumarchaeota	0.005794904
+819	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Thaumarchaeota	0.004091587
+820	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Thaumarchaeota	0.001421884
+825	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Thaumarchaeota	0.009439874
+826	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Thaumarchaeota	0.011492258
+827	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Thaumarchaeota	0.011336032
+828	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Thaumarchaeota	0.01113976
+833	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Thaumarchaeota	0.003826307
+834	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Thaumarchaeota	0.005020563
+835	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Thaumarchaeota	0.003934765
+836	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Thaumarchaeota	0.006883056
+841	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Thaumarchaeota	0.002816977
+842	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Thaumarchaeota	0.003931883
+843	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Thaumarchaeota	0.002553146
+844	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Thaumarchaeota	0.006243996
+849	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Thaumarchaeota	0.006591375
+850	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Thaumarchaeota	0.01081681
+851	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Thaumarchaeota	0.004501992
+852	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Thaumarchaeota	0.003819198
+857	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Thaumarchaeota	0.000616956
+858	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Thaumarchaeota	0.001219195
+859	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Thaumarchaeota	0.00067873
+860	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Thaumarchaeota	0.001464891
+865	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Thaumarchaeota	0.001201519
+866	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Thaumarchaeota	4.11E-05
+867	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Thaumarchaeota	0.0006974
+868	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Thaumarchaeota	0.00146014
+873	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Thaumarchaeota	0.000735669
+874	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Thaumarchaeota	0.001663845
+875	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Thaumarchaeota	0.002457843
+876	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Thaumarchaeota	0.0052629
+881	L151	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.042231541
+882	L152	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.030560387
+883	L153	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.038734659
+884	L154	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.037410072
+885	L21	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.025139196
+886	L22	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.022796289
+887	L23	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.02658401
+888	L24	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.002589163
+889	L251	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.03970654
+890	L252	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.041552927
+891	L253	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.030646764
+892	L254	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.043540488
+893	L401	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.045746539
+894	L402	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.030371732
+895	L403	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.030318179
+896	L404	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.029244889
+897	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Gemmatimonadetes	0.008438421
+898	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Gemmatimonadetes	0.006232074
+899	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Gemmatimonadetes	0.005271608
+900	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Gemmatimonadetes	0.006847012
+905	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Gemmatimonadetes	0.011315455
+906	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Gemmatimonadetes	0.005551193
+907	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Gemmatimonadetes	0.00741092
+908	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Gemmatimonadetes	0.008464232
+913	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Gemmatimonadetes	0.009093212
+914	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Gemmatimonadetes	0.008355579
+915	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Gemmatimonadetes	0.009716599
+916	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Gemmatimonadetes	0.008110747
+921	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Gemmatimonadetes	0.009121162
+922	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Gemmatimonadetes	0.010722107
+923	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Gemmatimonadetes	0.006610935
+924	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Gemmatimonadetes	0.007827789
+929	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Gemmatimonadetes	0.009596593
+930	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Gemmatimonadetes	0.007608798
+931	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Gemmatimonadetes	0.008398506
+932	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Gemmatimonadetes	0.011140463
+937	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Gemmatimonadetes	0.010422947
+938	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Gemmatimonadetes	0.011003998
+939	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Gemmatimonadetes	0.011075697
+940	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Gemmatimonadetes	0.008857859
+945	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Gemmatimonadetes	0.005452172
+946	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Gemmatimonadetes	0.002013726
+947	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Gemmatimonadetes	0.000542984
+948	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Gemmatimonadetes	0.001807155
+953	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Gemmatimonadetes	0.005310713
+954	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Gemmatimonadetes	0.000520064
+955	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Gemmatimonadetes	0.003540646
+956	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Gemmatimonadetes	0.00276975
+961	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Gemmatimonadetes	0.000721521
+962	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Gemmatimonadetes	0.002444232
+963	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Gemmatimonadetes	0.002862299
+964	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Gemmatimonadetes	0.006805052
+969	L151	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.025064799
+970	L152	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.017637787
+971	L153	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.021344425
+972	L154	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.02222679
+973	L21	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.019935089
+974	L22	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.020067451
+975	L23	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.021627433
+976	L24	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.00512142
+977	L251	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.020856783
+978	L252	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.019811399
+979	L253	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.015216489
+980	L254	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.019071596
+981	L401	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.017363258
+982	L402	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.015534658
+983	L403	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.017253259
+984	L404	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.015040229
+985	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Verrucomicrobia	0.019824233
+986	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Verrucomicrobia	0.008952743
+987	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Verrucomicrobia	0.012336098
+988	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Verrucomicrobia	0.013774735
+993	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Verrucomicrobia	0.022055775
+994	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Verrucomicrobia	0.020431098
+995	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Verrucomicrobia	0.016596667
+996	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Verrucomicrobia	0.02265624
+1001	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Verrucomicrobia	0.01723977
+1002	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Verrucomicrobia	0.019487453
+1003	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Verrucomicrobia	0.016419991
+1004	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Verrucomicrobia	0.016596991
+1009	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Verrucomicrobia	0.016369589
+1010	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Verrucomicrobia	0.013325856
+1011	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Verrucomicrobia	0.011870537
+1012	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Verrucomicrobia	0.013752615
+1017	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Verrucomicrobia	0.017953176
+1018	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Verrucomicrobia	0.017579409
+1019	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Verrucomicrobia	0.020384853
+1020	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Verrucomicrobia	0.016503896
+1025	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Verrucomicrobia	0.012218158
+1026	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Verrucomicrobia	0.013945528
+1027	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Verrucomicrobia	0.012416999
+1028	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Verrucomicrobia	0.012127628
+1033	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Verrucomicrobia	0.010273039
+1034	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Verrucomicrobia	0.006630228
+1035	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Verrucomicrobia	0.002823517
+1036	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Verrucomicrobia	0.005407774
+1041	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Verrucomicrobia	0.01026097
+1042	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Verrucomicrobia	0.001573876
+1043	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Verrucomicrobia	0.009996066
+1044	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Verrucomicrobia	0.00710501
+1049	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Verrucomicrobia	0.002164563
+1050	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Verrucomicrobia	0.005639402
+1051	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Verrucomicrobia	0.010998071
+1052	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Verrucomicrobia	0.035665329
+1057	L151	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.0171396
+1058	L152	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.012936189
+1059	L153	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.017089222
+1060	L154	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.015895855
+1061	L21	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.012520635
+1062	L22	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.013196378
+1063	L23	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.015861048
+1064	L24	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.001394164
+1065	L251	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.015174733
+1066	L252	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013910718
+1067	L253	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013732567
+1068	L254	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013243206
+1069	L401	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.012431125
+1070	L402	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.012154059
+1071	L403	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.014969939
+1072	L404	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.01681918
+1073	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Planctomycetes	0.025705557
+1074	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Planctomycetes	0.017758061
+1075	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Planctomycetes	0.02405673
+1076	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Planctomycetes	0.023486999
+1081	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Planctomycetes	0.020758376
+1082	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Planctomycetes	0.040171681
+1083	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Planctomycetes	0.031093348
+1084	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Planctomycetes	0.024225677
+1089	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Planctomycetes	0.023773016
+1090	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Planctomycetes	0.028550454
+1091	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Planctomycetes	0.029494923
+1092	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Planctomycetes	0.029401457
+1097	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Planctomycetes	0.034665804
+1098	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Planctomycetes	0.027132404
+1099	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Planctomycetes	0.030060545
+1100	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Planctomycetes	0.02984007
+1105	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Planctomycetes	0.032375022
+1106	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Planctomycetes	0.032971457
+1107	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Planctomycetes	0.032290575
+1108	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Planctomycetes	0.029485537
+1113	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Planctomycetes	0.018849725
+1114	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Planctomycetes	0.028933963
+1115	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Planctomycetes	0.022722444
+1116	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Planctomycetes	0.021802929
+1121	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Planctomycetes	0.031866508
+1122	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Planctomycetes	0.019507117
+1123	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Planctomycetes	0.006407211
+1124	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Planctomycetes	0.012650083
+1129	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Planctomycetes	0.016412746
+1130	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Planctomycetes	0.007075601
+1131	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Planctomycetes	0.028986803
+1132	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Planctomycetes	0.040808646
+1137	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Planctomycetes	0.004215947
+1138	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Planctomycetes	0.00796584
+1139	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Planctomycetes	0.023800635
+1140	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Planctomycetes	0.035371585
+1145	L151	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.036952598
+1146	L152	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.047559517
+1147	L153	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.042114193
+1148	L154	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.094032203
+1149	L21	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.05786072
+1150	L22	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.065436124
+1151	L23	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.05704951
+1152	L24	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.019632111
+1153	L251	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.031719125
+1154	L252	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.046309317
+1155	L253	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.039663477
+1156	L254	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.034711684
+1157	L401	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.050503965
+1158	L402	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.041090377
+1159	L403	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.057150578
+1160	L404	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.050740556
+1161	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Bacteroidetes	0.065138689
+1162	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Bacteroidetes	0.041319323
+1163	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Bacteroidetes	0.033516189
+1164	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Bacteroidetes	0.038028491
+1169	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Bacteroidetes	0.097251388
+1170	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Bacteroidetes	0.037220071
+1171	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Bacteroidetes	0.037013955
+1172	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Bacteroidetes	0.044172289
+1177	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Bacteroidetes	0.050705991
+1178	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Bacteroidetes	0.059423385
+1179	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Bacteroidetes	0.053998805
+1180	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Bacteroidetes	0.072783939
+1185	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Bacteroidetes	0.047168667
+1186	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Bacteroidetes	0.046213214
+1187	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Bacteroidetes	0.025052662
+1188	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Bacteroidetes	0.039354882
+1193	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Bacteroidetes	0.043332929
+1194	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Bacteroidetes	0.037856117
+1195	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Bacteroidetes	0.048388831
+1196	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Bacteroidetes	0.032314014
+1201	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Bacteroidetes	0.027932961
+1202	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Bacteroidetes	0.041208167
+1203	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Bacteroidetes	0.030876494
+1204	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Bacteroidetes	0.036798306
+1209	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Bacteroidetes	0.056817367
+1210	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Bacteroidetes	0.035411444
+1211	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Bacteroidetes	0.046940964
+1212	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Bacteroidetes	0.040729433
+1217	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Bacteroidetes	0.045873985
+1218	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Bacteroidetes	0.008512618
+1219	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Bacteroidetes	0.050963842
+1220	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Bacteroidetes	0.023843931
+1225	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Bacteroidetes	0.019495218
+1226	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Bacteroidetes	0.119899875
+1227	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Bacteroidetes	0.033709788
+1228	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Bacteroidetes	0.094560854
+1233	L151	Soil	Soil	AL	L15	NA	15	Firmicutes	0.026761118
+1234	L152	Soil	Soil	AL	L15	NA	15	Firmicutes	0.065088597
+1235	L153	Soil	Soil	AL	L15	NA	15	Firmicutes	0.033508011
+1236	L154	Soil	Soil	AL	L15	NA	15	Firmicutes	0.077629325
+1237	L21	Soil	Soil	AL	L2	NA	2	Firmicutes	0.016941328
+1238	L22	Soil	Soil	AL	L2	NA	2	Firmicutes	0.03129067
+1239	L23	Soil	Soil	AL	L2	NA	2	Firmicutes	0.028371171
+1240	L24	Soil	Soil	AL	L2	NA	2	Firmicutes	0.802711508
+1241	L251	Soil	Soil	AL	L25	NA	25	Firmicutes	0.032058149
+1242	L252	Soil	Soil	AL	L25	NA	25	Firmicutes	0.025298481
+1243	L253	Soil	Soil	AL	L25	NA	25	Firmicutes	0.057382512
+1244	L254	Soil	Soil	AL	L25	NA	25	Firmicutes	0.02859015
+1245	L401	Soil	Soil	AL	L40	NA	40	Firmicutes	0.011033463
+1246	L402	Soil	Soil	AL	L40	NA	40	Firmicutes	0.024375193
+1247	L403	Soil	Soil	AL	L40	NA	40	Firmicutes	0.013699926
+1248	L404	Soil	Soil	AL	L40	NA	40	Firmicutes	0.010350265
+1249	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Firmicutes	0.017442095
+1250	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Firmicutes	0.023588067
+1251	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Firmicutes	0.031790206
+1252	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Firmicutes	0.040194245
+1257	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Firmicutes	0.109489735
+1258	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Firmicutes	0.026415554
+1259	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Firmicutes	0.017707628
+1260	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Firmicutes	0.012300634
+1265	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Firmicutes	0.033332889
+1266	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Firmicutes	0.025413775
+1267	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Firmicutes	0.021875622
+1268	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Firmicutes	0.040653866
+1273	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Firmicutes	0.015251337
+1274	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Firmicutes	0.0179859
+1275	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Firmicutes	0.018892172
+1276	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Firmicutes	0.023699305
+1281	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Firmicutes	0.016120119
+1282	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Firmicutes	0.011580939
+1283	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Firmicutes	0.008143191
+1284	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Firmicutes	0.022481055
+1289	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Firmicutes	0.26137749
+1290	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Firmicutes	0.039443249
+1291	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Firmicutes	0.013253652
+1292	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Firmicutes	0.047853879
+1297	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Firmicutes	0.00684391
+1298	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Firmicutes	0.022123591
+1299	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Firmicutes	0.041416102
+1300	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Firmicutes	0.022329313
+1305	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Firmicutes	0.013192676
+1306	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Firmicutes	0.002408715
+1307	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Firmicutes	0.004720861
+1308	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Firmicutes	0.016197013
+1313	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Firmicutes	0.527488541
+1314	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Firmicutes	0.065817566
+1315	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Firmicutes	0.014762616
+1316	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Firmicutes	0.027758739
+1321	L151	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.172305229
+1322	L152	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.140599522
+1323	L153	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.188583469
+1324	L154	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.167221651
+1325	L21	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.209325425
+1326	L22	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.187730027
+1327	L23	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.234243668
+1328	L24	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.019959313
+1329	L251	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.184917481
+1330	L252	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.17132655
+1331	L253	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.122888869
+1332	L254	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.198027314
+1333	L401	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.188442414
+1334	L402	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.156138068
+1335	L403	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.154049855
+1336	L404	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.140429374
+1337	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Acidobacteria	0.101880139
+1338	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Acidobacteria	0.083603613
+1339	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Acidobacteria	0.068370351
+1340	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Acidobacteria	0.086145899
+1345	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Acidobacteria	0.102975991
+1346	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Acidobacteria	0.083850091
+1347	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Acidobacteria	0.098347107
+1348	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Acidobacteria	0.09955868
+1353	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Acidobacteria	0.101851975
+1354	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Acidobacteria	0.109049653
+1355	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Acidobacteria	0.105037499
+1356	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Acidobacteria	0.104951561
+1361	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Acidobacteria	0.103903103
+1362	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Acidobacteria	0.116073813
+1363	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Acidobacteria	0.084484837
+1364	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Acidobacteria	0.081341521
+1369	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Acidobacteria	0.105009907
+1370	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Acidobacteria	0.096337847
+1371	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Acidobacteria	0.112056223
+1372	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Acidobacteria	0.104853773
+1377	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Acidobacteria	0.084026633
+1378	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Acidobacteria	0.134053563
+1379	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Acidobacteria	0.126440903
+1380	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Acidobacteria	0.116076813
+1385	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Acidobacteria	0.043933024
+1386	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Acidobacteria	0.030329183
+1387	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Acidobacteria	0.00897281
+1388	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Acidobacteria	0.028051969
+1393	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Acidobacteria	0.042557793
+1394	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Acidobacteria	0.006090217
+1395	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Acidobacteria	0.036068095
+1396	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Acidobacteria	0.026944846
+1401	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Acidobacteria	0.008148945
+1402	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Acidobacteria	0.015180741
+1403	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Acidobacteria	0.0254029
+1404	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Acidobacteria	0.040120435
+1409	L151	Soil	Soil	AL	L15	NA	15	Unassigned	0.11572962
+1410	L152	Soil	Soil	AL	L15	NA	15	Unassigned	0.109549951
+1411	L153	Soil	Soil	AL	L15	NA	15	Unassigned	0.11298863
+1412	L154	Soil	Soil	AL	L15	NA	15	Unassigned	0.094141829
+1413	L21	Soil	Soil	AL	L2	NA	2	Unassigned	0.146078733
+1414	L22	Soil	Soil	AL	L2	NA	2	Unassigned	0.142165438
+1415	L23	Soil	Soil	AL	L2	NA	2	Unassigned	0.1482645
+1416	L24	Soil	Soil	AL	L2	NA	2	Unassigned	0.015876403
+1417	L251	Soil	Soil	AL	L25	NA	25	Unassigned	0.136260696
+1418	L252	Soil	Soil	AL	L25	NA	25	Unassigned	0.131703753
+1419	L253	Soil	Soil	AL	L25	NA	25	Unassigned	0.111621122
+1420	L254	Soil	Soil	AL	L25	NA	25	Unassigned	0.134259898
+1421	L401	Soil	Soil	AL	L40	NA	40	Unassigned	0.121959414
+1422	L402	Soil	Soil	AL	L40	NA	40	Unassigned	0.136230095
+1423	L403	Soil	Soil	AL	L40	NA	40	Unassigned	0.116638519
+1424	L404	Soil	Soil	AL	L40	NA	40	Unassigned	0.10249188
+1425	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Unassigned	0.07847597
+1426	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Unassigned	0.070683786
+1427	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Unassigned	0.054428686
+1428	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Unassigned	0.060143397
+1433	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Unassigned	0.074486725
+1434	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Unassigned	0.073465298
+1435	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Unassigned	0.075585964
+1436	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Unassigned	0.074769615
+1441	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Unassigned	0.074119012
+1442	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Unassigned	0.081380139
+1443	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Unassigned	0.087754696
+1444	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Unassigned	0.075525071
+1449	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Unassigned	0.075758188
+1450	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Unassigned	0.089822678
+1451	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Unassigned	0.050675004
+1452	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Unassigned	0.061677576
+1457	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Unassigned	0.083714097
+1458	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Unassigned	0.077550692
+1459	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Unassigned	0.070560886
+1460	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Unassigned	0.089737432
+1465	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Unassigned	0.062296531
+1466	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Unassigned	0.092016419
+1467	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Unassigned	0.095179283
+1468	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Unassigned	0.073730619
+1473	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Unassigned	0.093461698
+1474	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Unassigned	0.14101563
+1475	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Unassigned	0.11531622
+1476	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Unassigned	0.139397341
+1481	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Unassigned	0.231316384
+1482	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Unassigned	0.108145837
+1483	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Unassigned	0.284700118
+1484	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Unassigned	0.186085019
+1489	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Unassigned	0.109558033
+1490	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Unassigned	0.126069351
+1491	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Unassigned	0.183233775
+1492	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Unassigned	0.134950553
+1497	L151	Soil	Soil	AL	L15	NA	15	Cyanobacteria	6.79E-05
+1498	L152	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000122296
+1499	L153	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000123141
+1500	L154	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000178143
+1501	L21	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000433676
+1502	L22	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000223905
+1503	L23	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000335093
+1504	L24	Soil	Soil	AL	L2	NA	2	Cyanobacteria	5.69E-05
+1505	L251	Soil	Soil	AL	L25	NA	25	Cyanobacteria	0.000216976
+1506	L252	Soil	Soil	AL	L25	NA	25	Cyanobacteria	8.27E-05
+1507	L253	Soil	Soil	AL	L25	NA	25	Cyanobacteria	0.000138332
+1508	L254	Soil	Soil	AL	L25	NA	25	Cyanobacteria	3.45E-05
+1509	L401	Soil	Soil	AL	L40	NA	40	Cyanobacteria	8.06E-05
+1510	L402	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000295132
+1511	L403	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000770114
+1512	L404	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000835568
+1513	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Cyanobacteria	0.003701062
+1514	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Cyanobacteria	0.001206208
+1515	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Cyanobacteria	0.001016858
+1516	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Cyanobacteria	0.000860921
+1521	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Cyanobacteria	0.00329031
+1522	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Cyanobacteria	0.000893607
+1523	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Cyanobacteria	0.000663867
+1524	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Cyanobacteria	0.000845082
+1529	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Cyanobacteria	0.002826629
+1530	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Cyanobacteria	0.008702616
+1531	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Cyanobacteria	0.004314064
+1532	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Cyanobacteria	0.001965104
+1537	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Cyanobacteria	0.00161675
+1538	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Cyanobacteria	0.001749185
+1539	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Cyanobacteria	0.000225222
+1540	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Cyanobacteria	0.001255145
+1545	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Cyanobacteria	0.001442185
+1546	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Cyanobacteria	0.000966197
+1547	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Cyanobacteria	0.000403128
+1548	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Cyanobacteria	0.001054008
+1553	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Cyanobacteria	0.001714829
+1554	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Cyanobacteria	0.002420077
+1555	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Cyanobacteria	0.001301461
+1556	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Cyanobacteria	0.001433874
+1561	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Cyanobacteria	0.16439732
+1562	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Cyanobacteria	0.12190578
+1563	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Cyanobacteria	0.15276854
+1564	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Cyanobacteria	0.070533795
+1569	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Cyanobacteria	0.193732878
+1570	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Cyanobacteria	0.766737833
+1571	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Cyanobacteria	0.068506134
+1572	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Cyanobacteria	0.100267943
+1577	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Cyanobacteria	0.152990776
+1578	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Cyanobacteria	0.095148347
+1579	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Cyanobacteria	0.196627466
+1580	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Cyanobacteria	0.048027024
+1585	L151	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.119624367
+1586	L152	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.156620285
+1587	L153	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.121198024
+1588	L154	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.079972593
+1589	L21	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.080873507
+1590	L22	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.103751802
+1591	L23	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.082460696
+1592	L24	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.016658842
+1593	L251	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.098886644
+1594	L252	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.126244244
+1595	L253	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.138168237
+1596	L254	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.136156711
+1597	L401	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.162451283
+1598	L402	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.195296674
+1599	L403	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.201067351
+1600	L404	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.252732443
+1601	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Actinobacteria	0.18752944
+1602	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Actinobacteria	0.262886322
+1603	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Actinobacteria	0.239670859
+1604	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Actinobacteria	0.21609115
+1609	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Actinobacteria	0.131639136
+1610	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Actinobacteria	0.199179507
+1611	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Actinobacteria	0.189608454
+1612	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Actinobacteria	0.157587627
+1617	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Actinobacteria	0.258236557
+1618	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Actinobacteria	0.196062467
+1619	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Actinobacteria	0.255976638
+1620	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Actinobacteria	0.225699051
+1625	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Actinobacteria	0.257669456
+1626	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Actinobacteria	0.241093842
+1627	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Actinobacteria	0.280375194
+1628	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Actinobacteria	0.274579931
+1633	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Actinobacteria	0.200409742
+1634	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Actinobacteria	0.214629826
+1635	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Actinobacteria	0.167741675
+1636	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Actinobacteria	0.217766037
+1641	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Actinobacteria	0.238816768
+1642	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Actinobacteria	0.238304074
+1643	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Actinobacteria	0.29436919
+1644	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Actinobacteria	0.265105932
+1649	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Actinobacteria	0.23514642
+1650	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Actinobacteria	0.316237209
+1651	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Actinobacteria	0.089022222
+1652	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Actinobacteria	0.161357009
+1657	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Actinobacteria	0.147137982
+1658	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Actinobacteria	0.039127936
+1659	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Actinobacteria	0.163531347
+1660	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Actinobacteria	0.23609104
+1665	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Actinobacteria	0.08208364
+1666	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Actinobacteria	0.203975558
+1667	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Actinobacteria	0.32350196
+1668	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Actinobacteria	0.274943699
+1673	L151	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.397359172
+1674	L152	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.375760952
+1675	L153	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.377467949
+1676	L154	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.364193217
+1677	L21	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.348003693
+1678	L22	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.333813795
+1679	L23	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.297478428
+1680	L24	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.107179947
+1681	L251	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.393173404
+1682	L252	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.372873411
+1683	L253	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.425080798
+1684	L254	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.351065664
+1685	L401	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.312726784
+1686	L402	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.327515662
+1687	L403	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.3156117
+1688	L404	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.312057789
+1689	RBL15B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Proteobacteria	0.467074008
+1690	RBL15B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Proteobacteria	0.469174686
+1691	RBL15B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Proteobacteria	0.513740969
+1692	RBL15B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L15B	NA	15	Proteobacteria	0.491236094
+1697	RBL25B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Proteobacteria	0.396896944
+1698	RBL25B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Proteobacteria	0.490684828
+1699	RBL25B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Proteobacteria	0.50517545
+1700	RBL25B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L25B	NA	25	Proteobacteria	0.535205033
+1705	RBL40B1	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Proteobacteria	0.39924801
+1706	RBL40B2	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Proteobacteria	0.429631607
+1707	RBL40B3	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Proteobacteria	0.371474082
+1708	RBL40B4	Rhizoplane	Bothriochloa ischaemum 	AL	RB.L40B	NA	40	Proteobacteria	0.387989086
+1713	RJL15B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Proteobacteria	0.413901351
+1714	RJL15B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Proteobacteria	0.409429579
+1715	RJL15B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Proteobacteria	0.471681615
+1716	RJL15B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L15B	NA	15	Proteobacteria	0.43830218
+1721	RJL25B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Proteobacteria	0.468130417
+1722	RJL25B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Proteobacteria	0.483943692
+1723	RJL25B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Proteobacteria	0.509621328
+1724	RJL25B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L25B	NA	25	Proteobacteria	0.453263422
+1729	RJL40B1	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Proteobacteria	0.25656793
+1730	RJL40B2	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Proteobacteria	0.366942547
+1731	RJL40B3	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Proteobacteria	0.36436919
+1732	RJL40B4	Rhizosphere	Bothriochloa ischaemum 	AL	RJ.L40B	NA	40	Proteobacteria	0.39459684
+1737	RL15B1	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Proteobacteria	0.338780722
+1738	RL15B2	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Proteobacteria	0.292647844
+1739	RL15B3	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Proteobacteria	0.529898055
+1740	RL15B4	Endosphere	Bothriochloa ischaemum 	AL	R.L15B	NA	15	Proteobacteria	0.50618129
+1745	RL25B1	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Proteobacteria	0.280290287
+1746	RL25B2	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Proteobacteria	0.057042755
+1747	RL25B3	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Proteobacteria	0.336289832
+1748	RL25B4	Endosphere	Bothriochloa ischaemum 	AL	R.L25B	NA	25	Proteobacteria	0.351095857
+1753	RL40B1	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Proteobacteria	0.090020372
+1754	RL40B2	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Proteobacteria	0.347758227
+1755	RL40B3	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Proteobacteria	0.173355734
+1756	RL40B4	Endosphere	Bothriochloa ischaemum 	AL	R.L40B	NA	40	Proteobacteria	0.28265446

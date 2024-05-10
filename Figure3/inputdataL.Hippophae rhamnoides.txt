@@ -1,0 +1,1041 @@
+	SampleID	Compartment	Cultivar	Site	Group	Type	Age	Phylum2	RA
+1	L151	Soil	Soil	AL	L15	NA	15	Fibrobacteres	6.79E-05
+2	L152	Soil	Soil	AL	L15	NA	15	Fibrobacteres	2.72E-05
+3	L153	Soil	Soil	AL	L15	NA	15	Fibrobacteres	5.47E-05
+4	L154	Soil	Soil	AL	L15	NA	15	Fibrobacteres	4.11E-05
+5	L21	Soil	Soil	AL	L2	NA	2	Fibrobacteres	0.00029378
+6	L22	Soil	Soil	AL	L2	NA	2	Fibrobacteres	9.80E-05
+7	L23	Soil	Soil	AL	L2	NA	2	Fibrobacteres	6.98E-05
+8	L24	Soil	Soil	AL	L2	NA	2	Fibrobacteres	2.85E-05
+9	L251	Soil	Soil	AL	L25	NA	25	Fibrobacteres	4.07E-05
+10	L252	Soil	Soil	AL	L25	NA	25	Fibrobacteres	2.76E-05
+11	L253	Soil	Soil	AL	L25	NA	25	Fibrobacteres	3.42E-05
+12	L254	Soil	Soil	AL	L25	NA	25	Fibrobacteres	0.000120706
+13	L401	Soil	Soil	AL	L40	NA	40	Fibrobacteres	2.69E-05
+14	L402	Soil	Soil	AL	L40	NA	40	Fibrobacteres	8.05E-05
+15	L403	Soil	Soil	AL	L40	NA	40	Fibrobacteres	0.000108086
+16	L404	Soil	Soil	AL	L40	NA	40	Fibrobacteres	8.09E-05
+21	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Fibrobacteres	8.03E-05
+22	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Fibrobacteres	8.03E-05
+23	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Fibrobacteres	8.03E-05
+24	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Fibrobacteres	8.03E-05
+29	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Fibrobacteres	5.33E-05
+30	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Fibrobacteres	0.00011925
+31	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Fibrobacteres	2.66E-05
+32	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Fibrobacteres	1.32E-05
+37	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Fibrobacteres	3.97E-05
+38	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Fibrobacteres	0.000145593
+39	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Fibrobacteres	1.32E-05
+40	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Fibrobacteres	2.65E-05
+45	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Fibrobacteres	3.97E-05
+46	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Fibrobacteres	0.000201882
+47	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Fibrobacteres	2.65E-05
+48	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Fibrobacteres	8.94E-05
+53	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Fibrobacteres	1.66E-05
+54	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Fibrobacteres	1.99E-05
+55	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Fibrobacteres	1.33E-05
+56	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Fibrobacteres	2.65E-05
+61	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Fibrobacteres	5.32E-05
+62	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Fibrobacteres	6.66E-05
+63	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Fibrobacteres	6.85E-05
+64	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Fibrobacteres	5.31E-05
+69	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Fibrobacteres	7.91E-05
+70	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Fibrobacteres	7.91E-05
+71	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Fibrobacteres	7.91E-05
+72	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Fibrobacteres	7.91E-05
+77	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Fibrobacteres	0.00018987
+78	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Fibrobacteres	0.00018987
+79	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Fibrobacteres	0.00018987
+80	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Fibrobacteres	0.00018987
+85	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Fibrobacteres	1.66E-05
+86	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Fibrobacteres	1.66E-05
+87	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Fibrobacteres	1.66E-05
+88	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Fibrobacteres	1.66E-05
+89	L151	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.000325693
+90	L152	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.000353299
+91	L153	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.0002326
+92	L154	Soil	Soil	AL	L15	NA	15	Parcubacteria	0.00032888
+93	L21	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.000153885
+94	L22	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.00013994
+95	L23	Soil	Soil	AL	L2	NA	2	Parcubacteria	0.000237357
+96	L24	Soil	Soil	AL	L2	NA	2	Parcubacteria	2.85E-05
+97	L251	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.000108488
+98	L252	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.000234373
+99	L253	Soil	Soil	AL	L25	NA	25	Parcubacteria	1.26E-05
+100	L254	Soil	Soil	AL	L25	NA	25	Parcubacteria	0.00013795
+101	L401	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000120951
+102	L402	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000415867
+103	L403	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000270215
+104	L404	Soil	Soil	AL	L40	NA	40	Parcubacteria	0.000269538
+109	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Parcubacteria	2.66E-05
+110	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Parcubacteria	0.000108275
+111	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Parcubacteria	1.34E-05
+112	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Parcubacteria	2.50E-05
+117	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Parcubacteria	1.33E-05
+118	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Parcubacteria	1.32E-05
+119	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Parcubacteria	2.66E-05
+120	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Parcubacteria	7.94E-05
+125	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Parcubacteria	2.64E-05
+126	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Parcubacteria	1.32E-05
+127	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Parcubacteria	1.32E-05
+128	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Parcubacteria	1.76E-05
+133	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Parcubacteria	5.29E-05
+134	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Parcubacteria	2.69E-05
+135	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Parcubacteria	1.33E-05
+136	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Parcubacteria	1.33E-05
+141	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Parcubacteria	5.66E-05
+142	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Parcubacteria	1.33E-05
+143	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Parcubacteria	3.98E-05
+144	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Parcubacteria	3.66E-05
+149	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Parcubacteria	2.66E-05
+150	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Parcubacteria	1.33E-05
+151	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Parcubacteria	2.00E-05
+152	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Parcubacteria	3.98E-05
+157	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Parcubacteria	2.68E-05
+158	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Parcubacteria	2.68E-05
+159	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Parcubacteria	2.68E-05
+160	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Parcubacteria	2.68E-05
+165	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Parcubacteria	1.46E-05
+166	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Parcubacteria	1.46E-05
+167	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Parcubacteria	1.46E-05
+168	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Parcubacteria	1.46E-05
+173	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Parcubacteria	1.66E-05
+174	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Parcubacteria	1.66E-05
+175	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Parcubacteria	1.66E-05
+176	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Parcubacteria	1.66E-05
+177	L151	Soil	Soil	AL	L15	NA	15	BRC1	0.000176417
+178	L152	Soil	Soil	AL	L15	NA	15	BRC1	0.000108707
+179	L153	Soil	Soil	AL	L15	NA	15	BRC1	0.000109459
+180	L154	Soil	Soil	AL	L15	NA	15	BRC1	0.000137033
+181	L21	Soil	Soil	AL	L2	NA	2	BRC1	0.000279791
+182	L22	Soil	Soil	AL	L2	NA	2	BRC1	0.000293875
+183	L23	Soil	Soil	AL	L2	NA	2	BRC1	0.000474714
+184	L24	Soil	Soil	AL	L2	NA	2	BRC1	0.00034946
+185	L251	Soil	Soil	AL	L25	NA	25	BRC1	0.000176293
+186	L252	Soil	Soil	AL	L25	NA	25	BRC1	9.65E-05
+187	L253	Soil	Soil	AL	L25	NA	25	BRC1	0.000150907
+188	L254	Soil	Soil	AL	L25	NA	25	BRC1	8.62E-05
+189	L401	Soil	Soil	AL	L40	NA	40	BRC1	0.000107512
+190	L402	Soil	Soil	AL	L40	NA	40	BRC1	0.000160981
+191	L403	Soil	Soil	AL	L40	NA	40	BRC1	0.000108086
+192	L404	Soil	Soil	AL	L40	NA	40	BRC1	0.000134769
+197	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	BRC1	0.000119871
+198	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	BRC1	0.000148878
+199	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	BRC1	2.69E-05
+200	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	BRC1	8.75E-05
+205	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	BRC1	4.00E-05
+206	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	BRC1	5.30E-05
+207	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	BRC1	3.99E-05
+208	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	BRC1	5.30E-05
+213	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	BRC1	0.000158608
+214	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	BRC1	7.94E-05
+215	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	BRC1	2.65E-05
+216	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	BRC1	0.000132571
+221	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	BRC1	0.000105864
+222	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	BRC1	0.000134588
+223	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	BRC1	0.000185731
+224	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	BRC1	9.34E-05
+229	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	BRC1	7.09E-05
+230	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	BRC1	6.67E-05
+231	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	BRC1	5.30E-05
+232	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	BRC1	9.29E-05
+237	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	BRC1	5.32E-05
+238	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	BRC1	7.99E-05
+239	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	BRC1	7.99E-05
+240	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	BRC1	6.64E-05
+245	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	BRC1	9.39E-05
+246	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	BRC1	3.08E-05
+247	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	BRC1	3.20E-05
+248	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	BRC1	1.58E-05
+253	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	BRC1	4.82E-05
+254	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	BRC1	1.37E-05
+255	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	BRC1	1.46E-05
+256	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	BRC1	1.28E-05
+261	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	BRC1	4.35E-05
+262	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	BRC1	0.000222982
+263	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	BRC1	1.56E-05
+264	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	BRC1	3.31E-05
+265	L151	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.004681839
+266	L152	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.003587346
+267	L153	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.004214156
+268	L154	Soil	Soil	AL	L15	NA	15	Latescibacteria	0.00400137
+269	L21	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.006603061
+270	L22	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.007234918
+271	L23	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.008237692
+272	L24	Soil	Soil	AL	L2	NA	2	Latescibacteria	0.000583273
+273	L251	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.009031611
+274	L252	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.006328067
+275	L253	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.004149952
+276	L254	Soil	Soil	AL	L25	NA	25	Latescibacteria	0.006707822
+277	L401	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.005039645
+278	L402	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.002562279
+279	L403	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.003337161
+280	L404	Soil	Soil	AL	L40	NA	40	Latescibacteria	0.002129351
+285	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Latescibacteria	9.32E-05
+286	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Latescibacteria	0.000338359
+287	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Latescibacteria	0.000268947
+288	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Latescibacteria	0.000199998
+293	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Latescibacteria	0.000613423
+294	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Latescibacteria	0.000211999
+295	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Latescibacteria	0.000372558
+296	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Latescibacteria	0.000383938
+301	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Latescibacteria	0.000171826
+302	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Latescibacteria	0.000317658
+303	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Latescibacteria	0.00010597
+304	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Latescibacteria	0.000424229
+309	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Latescibacteria	0.000595482
+310	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Latescibacteria	0.000524892
+311	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Latescibacteria	0.000729656
+312	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Latescibacteria	0.000720673
+317	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Latescibacteria	5.66E-05
+318	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Latescibacteria	0.000373249
+319	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Latescibacteria	0.00062321
+320	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Latescibacteria	2.65E-05
+325	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Latescibacteria	6.66E-05
+326	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Latescibacteria	0.000572456
+327	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Latescibacteria	0.000296787
+328	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Latescibacteria	0.000212523
+333	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Latescibacteria	4.03E-05
+334	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Latescibacteria	3.08E-05
+335	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Latescibacteria	9.60E-05
+336	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Latescibacteria	0.000205752
+341	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Latescibacteria	0.000240819
+342	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Latescibacteria	0.000118159
+343	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Latescibacteria	5.84E-05
+344	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Latescibacteria	5.13E-05
+349	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Latescibacteria	1.45E-05
+350	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Latescibacteria	0.002081165
+351	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Latescibacteria	1.56E-05
+352	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Latescibacteria	0.000704
+353	L151	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001967729
+354	L152	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001970323
+355	L153	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001614514
+356	L154	Soil	Soil	AL	L15	NA	15	Nitrospirae	0.001849949
+357	L21	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.012310792
+358	L22	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.010957332
+359	L23	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.010918433
+360	L24	Soil	Soil	AL	L2	NA	2	Nitrospirae	0.001010058
+361	L251	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002047708
+362	L252	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.003777539
+363	L253	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002276186
+364	L254	Soil	Soil	AL	L25	NA	25	Nitrospirae	0.002827976
+365	L401	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.005563768
+366	L402	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.009310063
+367	L403	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.005377288
+368	L404	Soil	Soil	AL	L40	NA	40	Nitrospirae	0.004029595
+373	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Nitrospirae	0.000812456
+374	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Nitrospirae	0.001015077
+375	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Nitrospirae	0.000470658
+376	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Nitrospirae	0.000324996
+381	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Nitrospirae	0.001026817
+382	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Nitrospirae	0.000755247
+383	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Nitrospirae	0.001170898
+384	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Nitrospirae	0.000569288
+389	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Nitrospirae	0.001718258
+390	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Nitrospirae	0.001905947
+391	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Nitrospirae	0.00131138
+392	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Nitrospirae	0.001909029
+397	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Nitrospirae	0.001336527
+398	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Nitrospirae	0.000847902
+399	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Nitrospirae	0.001074584
+400	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Nitrospirae	0.000734018
+405	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Nitrospirae	0.000712678
+406	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Nitrospirae	0.001026434
+407	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Nitrospirae	0.001790071
+408	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Nitrospirae	0.000225644
+413	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Nitrospirae	0.002329451
+414	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Nitrospirae	0.00246289
+415	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Nitrospirae	0.002750985
+416	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Nitrospirae	0.002948755
+421	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Nitrospirae	2.68E-05
+422	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Nitrospirae	0.000698701
+423	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Nitrospirae	0.000447778
+424	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Nitrospirae	0.000949623
+429	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Nitrospirae	2.41E-05
+430	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Nitrospirae	6.75E-05
+431	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Nitrospirae	0.000292107
+432	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Nitrospirae	0.00026911
+437	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Nitrospirae	0.000667276
+438	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Nitrospirae	0.001152074
+439	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Nitrospirae	0.000528755
+440	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Nitrospirae	9.93E-05
+441	L151	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.0037319
+442	L152	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.004823894
+443	L153	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.003584769
+444	L154	Soil	Soil	AL	L15	NA	15	Chloroflexi	0.003508051
+445	L21	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.012394729
+446	L22	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.012062861
+447	L23	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.010164475
+448	L24	Soil	Soil	AL	L2	NA	2	Chloroflexi	0.000810892
+449	L251	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00569561
+450	L252	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00656244
+451	L253	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.00782203
+452	L254	Soil	Soil	AL	L25	NA	25	Chloroflexi	0.004276452
+453	L401	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.007552748
+454	L402	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.006452651
+455	L403	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.008971154
+456	L404	Soil	Soil	AL	L40	NA	40	Chloroflexi	0.008180483
+461	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Chloroflexi	0.000972283
+462	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Chloroflexi	0.001001543
+463	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Chloroflexi	0.000632026
+464	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Chloroflexi	0.001224985
+469	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Chloroflexi	0.001760258
+470	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Chloroflexi	0.000781747
+471	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Chloroflexi	0.001876098
+472	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Chloroflexi	0.001138575
+477	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Chloroflexi	0.00130852
+478	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Chloroflexi	0.001204453
+479	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Chloroflexi	0.000874253
+480	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Chloroflexi	0.001471544
+485	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Chloroflexi	0.001310061
+486	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Chloroflexi	0.00164197
+487	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Chloroflexi	0.001379713
+488	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Chloroflexi	0.001414654
+493	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Chloroflexi	0.00053168
+494	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Chloroflexi	0.001546316
+495	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Chloroflexi	0.001630954
+496	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Chloroflexi	0.000530926
+501	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Chloroflexi	0.000945092
+502	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Chloroflexi	0.00127804
+503	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Chloroflexi	0.00131271
+504	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Chloroflexi	0.001182159
+509	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Chloroflexi	0.000550262
+510	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Chloroflexi	0.002634823
+511	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Chloroflexi	0.000479762
+512	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Chloroflexi	0.000348195
+517	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Chloroflexi	0.002167369
+518	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Chloroflexi	0.000827116
+519	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Chloroflexi	0.000321318
+520	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Chloroflexi	0.000615109
+525	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Chloroflexi	0.001436094
+526	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Chloroflexi	0.001077746
+527	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Chloroflexi	0.001010855
+528	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Chloroflexi	0.00064546
+529	L151	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.006676709
+530	L152	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.00997391
+531	L153	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.00700535
+532	L154	Soil	Soil	AL	L15	NA	15	Armatimonadetes	0.006097979
+533	L21	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.011681262
+534	L22	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.010929344
+535	L23	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.010890509
+536	L24	Soil	Soil	AL	L2	NA	2	Armatimonadetes	0.001237677
+537	L251	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006875415
+538	L252	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.007692944
+539	L253	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006828557
+540	L254	Soil	Soil	AL	L25	NA	25	Armatimonadetes	0.006138778
+541	L401	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.008775702
+542	L402	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.012180889
+543	L403	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.010565426
+544	L404	Soil	Soil	AL	L40	NA	40	Armatimonadetes	0.007708791
+549	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Armatimonadetes	0.001744782
+550	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Armatimonadetes	0.002097826
+551	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Armatimonadetes	0.001438868
+552	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Armatimonadetes	0.001924976
+557	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Armatimonadetes	0.003880569
+558	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Armatimonadetes	0.001775493
+559	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Armatimonadetes	0.002980467
+560	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Armatimonadetes	0.002383064
+565	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Armatimonadetes	0.000859129
+566	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Armatimonadetes	0.00115151
+567	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Armatimonadetes	0.000556343
+568	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Armatimonadetes	0.001670401
+573	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Armatimonadetes	0.002236367
+574	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Armatimonadetes	0.002543707
+575	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Armatimonadetes	0.001950171
+576	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Armatimonadetes	0.001895102
+581	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Armatimonadetes	0.00144798
+582	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Armatimonadetes	0.001826253
+583	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Armatimonadetes	0.002864114
+584	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Armatimonadetes	0.000358375
+589	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Armatimonadetes	0.000798669
+590	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Armatimonadetes	0.001038408
+591	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Armatimonadetes	0.00135837
+592	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Armatimonadetes	0.001500943
+597	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Armatimonadetes	0.000469736
+598	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Armatimonadetes	0.005007704
+599	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Armatimonadetes	0.001711151
+600	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Armatimonadetes	0.000617255
+605	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Armatimonadetes	0.001950632
+606	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Armatimonadetes	0.000405118
+607	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Armatimonadetes	0.000423556
+608	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Armatimonadetes	0.00083296
+613	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Armatimonadetes	0.00087036
+614	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Armatimonadetes	0.001077746
+615	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Armatimonadetes	0.000824236
+616	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Armatimonadetes	0.000728212
+617	L151	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001465619
+618	L152	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001453962
+619	L153	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001067221
+620	L154	Soil	Soil	AL	L15	NA	15	Candidatus_Saccharibacteria	0.001397739
+621	L21	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.001021236
+622	L22	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.00079766
+623	L23	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.001689425
+624	L24	Soil	Soil	AL	L2	NA	2	Candidatus_Saccharibacteria	0.000725535
+625	L251	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001817171
+626	L252	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001943916
+627	L253	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.002301337
+628	L254	Soil	Soil	AL	L25	NA	25	Candidatus_Saccharibacteria	0.001224307
+629	L401	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.000954173
+630	L402	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.001663469
+631	L403	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.002769709
+632	L404	Soil	Soil	AL	L40	NA	40	Candidatus_Saccharibacteria	0.002830151
+637	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Candidatus_Saccharibacteria	0.005034563
+638	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Candidatus_Saccharibacteria	0.00489944
+639	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Candidatus_Saccharibacteria	0.005957184
+640	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Candidatus_Saccharibacteria	0.004099949
+645	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Candidatus_Saccharibacteria	0.008574591
+646	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Candidatus_Saccharibacteria	0.004716981
+647	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Candidatus_Saccharibacteria	0.006200436
+648	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Candidatus_Saccharibacteria	0.005494287
+653	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Candidatus_Saccharibacteria	0.013970763
+654	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Candidatus_Saccharibacteria	0.006736993
+655	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Candidatus_Saccharibacteria	0.006252235
+656	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Candidatus_Saccharibacteria	0.007914518
+661	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Candidatus_Saccharibacteria	0.003758155
+662	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Candidatus_Saccharibacteria	0.003566574
+663	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Candidatus_Saccharibacteria	0.003635013
+664	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Candidatus_Saccharibacteria	0.004097157
+669	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Candidatus_Saccharibacteria	0.001628978
+670	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Candidatus_Saccharibacteria	0.003079302
+671	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Candidatus_Saccharibacteria	0.00245306
+672	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Candidatus_Saccharibacteria	0.001858243
+677	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Candidatus_Saccharibacteria	0.003740433
+678	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Candidatus_Saccharibacteria	0.003767556
+679	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Candidatus_Saccharibacteria	0.004486045
+680	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Candidatus_Saccharibacteria	0.004104349
+685	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Candidatus_Saccharibacteria	0.011810495
+686	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Candidatus_Saccharibacteria	0.019106317
+687	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Candidatus_Saccharibacteria	0.001279365
+688	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Candidatus_Saccharibacteria	0.000886314
+693	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Candidatus_Saccharibacteria	0.001493076
+694	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Candidatus_Saccharibacteria	0.000945275
+695	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Candidatus_Saccharibacteria	0.002366069
+696	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Candidatus_Saccharibacteria	0.000525405
+701	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Candidatus_Saccharibacteria	0.001755226
+702	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Candidatus_Saccharibacteria	0.001412219
+703	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Candidatus_Saccharibacteria	0.00259712
+704	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Candidatus_Saccharibacteria	0.006338751
+705	L151	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.019229464
+706	L152	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.013629199
+707	L153	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.021070779
+708	L154	Soil	Soil	AL	L15	NA	15	candidate_division_WPS.1	0.017992463
+709	L21	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.00996055
+710	L22	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.009501952
+711	L23	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.010345983
+712	L24	Soil	Soil	AL	L2	NA	2	candidate_division_WPS.1	0.001138093
+713	L251	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.016544392
+714	L252	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.013097306
+715	L253	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.011204869
+716	L254	Soil	Soil	AL	L25	NA	25	candidate_division_WPS.1	0.010311767
+717	L401	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.012901492
+718	L402	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.007270971
+719	L403	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.012470445
+720	L404	Soil	Soil	AL	L40	NA	40	candidate_division_WPS.1	0.011900109
+725	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	candidate_division_WPS.1	0.003915771
+726	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	candidate_division_WPS.1	0.002855751
+727	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	candidate_division_WPS.1	0.002514658
+728	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	candidate_division_WPS.1	0.002762465
+733	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	candidate_division_WPS.1	0.003013775
+734	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	candidate_division_WPS.1	0.001881492
+735	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	candidate_division_WPS.1	0.001862792
+736	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	candidate_division_WPS.1	0.002661089
+741	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	candidate_division_WPS.1	0.001533215
+742	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	candidate_division_WPS.1	0.001005916
+743	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	candidate_division_WPS.1	0.000675559
+744	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	candidate_division_WPS.1	0.001524572
+749	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	candidate_division_WPS.1	0.00391695
+750	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	candidate_division_WPS.1	0.00360695
+751	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	candidate_division_WPS.1	0.004364669
+752	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	candidate_division_WPS.1	0.003603363
+757	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	candidate_division_WPS.1	0.000622179
+758	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	candidate_division_WPS.1	0.002826026
+759	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	candidate_division_WPS.1	0.004693964
+760	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	candidate_division_WPS.1	0.000172551
+765	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	candidate_division_WPS.1	0.001251248
+766	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	candidate_division_WPS.1	0.002236571
+767	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	candidate_division_WPS.1	0.002282975
+768	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	candidate_division_WPS.1	0.002802646
+773	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	candidate_division_WPS.1	0.000348946
+774	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	candidate_division_WPS.1	0.000616333
+775	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	candidate_division_WPS.1	0.001023492
+776	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	candidate_division_WPS.1	0.000933795
+781	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	candidate_division_WPS.1	0.001083685
+782	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	candidate_division_WPS.1	0.000506397
+783	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	candidate_division_WPS.1	0.001095402
+784	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	candidate_division_WPS.1	0.00026911
+789	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	candidate_division_WPS.1	0.000246602
+790	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	candidate_division_WPS.1	0.000594619
+791	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	candidate_division_WPS.1	0.000513203
+792	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	candidate_division_WPS.1	0.000198603
+793	L151	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.008088046
+794	L152	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.007079574
+795	L153	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.007402137
+796	L154	Soil	Soil	AL	L15	NA	15	Thaumarchaeota	0.00861939
+797	L21	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.027559386
+798	L22	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.026112876
+799	L23	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.034109631
+800	L24	Soil	Soil	AL	L2	NA	2	Thaumarchaeota	0.002873686
+801	L251	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.004475122
+802	L252	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.010767364
+803	L253	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.010299425
+804	L254	Soil	Soil	AL	L25	NA	25	Thaumarchaeota	0.00936336
+805	L401	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.036030103
+806	L402	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.020444576
+807	L403	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.033587786
+808	L404	Soil	Soil	AL	L40	NA	40	Thaumarchaeota	0.031535963
+813	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Thaumarchaeota	0.004888054
+814	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Thaumarchaeota	0.002138429
+815	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Thaumarchaeota	0.00250121
+816	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Thaumarchaeota	0.004462444
+821	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Thaumarchaeota	0.004560669
+822	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Thaumarchaeota	0.000993746
+823	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Thaumarchaeota	0.003419554
+824	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Thaumarchaeota	0.004263037
+829	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Thaumarchaeota	0.013124851
+830	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Thaumarchaeota	0.011673924
+831	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Thaumarchaeota	0.002675745
+832	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Thaumarchaeota	0.003141944
+837	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Thaumarchaeota	0.005875425
+838	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Thaumarchaeota	0.005410425
+839	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Thaumarchaeota	0.006633235
+840	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Thaumarchaeota	0.007046577
+845	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Thaumarchaeota	0.001481917
+846	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Thaumarchaeota	0.008384766
+847	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Thaumarchaeota	0.007717195
+848	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Thaumarchaeota	0.008282453
+853	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Thaumarchaeota	0.005950083
+854	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Thaumarchaeota	0.007468548
+855	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Thaumarchaeota	0.010992523
+856	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Thaumarchaeota	0.011369976
+861	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Thaumarchaeota	0.000214736
+862	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Thaumarchaeota	4.62E-05
+863	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Thaumarchaeota	0.000623691
+864	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Thaumarchaeota	0.000933795
+869	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Thaumarchaeota	0.000433474
+870	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Thaumarchaeota	0.000337598
+871	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Thaumarchaeota	0.001080797
+872	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Thaumarchaeota	0.001178958
+877	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Thaumarchaeota	0.000783324
+878	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Thaumarchaeota	0.000668946
+879	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Thaumarchaeota	0.000948649
+880	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Thaumarchaeota	0.000446857
+881	L151	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.042231541
+882	L152	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.030560387
+883	L153	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.038734659
+884	L154	Soil	Soil	AL	L15	NA	15	Gemmatimonadetes	0.037410072
+885	L21	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.025139196
+886	L22	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.022796289
+887	L23	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.02658401
+888	L24	Soil	Soil	AL	L2	NA	2	Gemmatimonadetes	0.002589163
+889	L251	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.03970654
+890	L252	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.041552927
+891	L253	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.030646764
+892	L254	Soil	Soil	AL	L25	NA	25	Gemmatimonadetes	0.043540488
+893	L401	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.045746539
+894	L402	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.030371732
+895	L403	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.030318179
+896	L404	Soil	Soil	AL	L40	NA	40	Gemmatimonadetes	0.029244889
+901	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Gemmatimonadetes	0.004541762
+902	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Gemmatimonadetes	0.007078472
+903	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Gemmatimonadetes	0.003751815
+904	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Gemmatimonadetes	0.005499931
+909	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Gemmatimonadetes	0.005054075
+910	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Gemmatimonadetes	0.002636739
+911	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Gemmatimonadetes	0.006187131
+912	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Gemmatimonadetes	0.004964717
+917	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Gemmatimonadetes	0.003991647
+918	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Gemmatimonadetes	0.004036901
+919	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Gemmatimonadetes	0.002331342
+920	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Gemmatimonadetes	0.004693031
+925	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Gemmatimonadetes	0.007860366
+926	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Gemmatimonadetes	0.008209849
+927	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Gemmatimonadetes	0.008039481
+928	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Gemmatimonadetes	0.00719338
+933	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Gemmatimonadetes	0.001911786
+934	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Gemmatimonadetes	0.007091726
+935	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Gemmatimonadetes	0.010448711
+936	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Gemmatimonadetes	0.003663393
+941	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Gemmatimonadetes	0.005936772
+942	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Gemmatimonadetes	0.00624376
+943	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Gemmatimonadetes	0.006403744
+944	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Gemmatimonadetes	0.007013256
+949	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Gemmatimonadetes	0.000483157
+950	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Gemmatimonadetes	0.001340524
+951	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Gemmatimonadetes	0.003054485
+952	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Gemmatimonadetes	0.003007138
+957	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Gemmatimonadetes	0.001444913
+958	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Gemmatimonadetes	0.001080315
+959	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Gemmatimonadetes	0.003067126
+960	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Gemmatimonadetes	0.000615109
+965	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Gemmatimonadetes	0.000812336
+966	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Gemmatimonadetes	0.008287498
+967	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Gemmatimonadetes	0.000637616
+968	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Gemmatimonadetes	0.000678561
+969	L151	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.025064799
+970	L152	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.017637787
+971	L153	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.021344425
+972	L154	Soil	Soil	AL	L15	NA	15	Verrucomicrobia	0.02222679
+973	L21	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.019935089
+974	L22	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.020067451
+975	L23	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.021627433
+976	L24	Soil	Soil	AL	L2	NA	2	Verrucomicrobia	0.00512142
+977	L251	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.020856783
+978	L252	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.019811399
+979	L253	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.015216489
+980	L254	Soil	Soil	AL	L25	NA	25	Verrucomicrobia	0.019071596
+981	L401	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.017363258
+982	L402	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.015534658
+983	L403	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.017253259
+984	L404	Soil	Soil	AL	L40	NA	40	Verrucomicrobia	0.015040229
+989	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Verrucomicrobia	0.013984896
+990	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Verrucomicrobia	0.02053163
+991	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Verrucomicrobia	0.014334893
+992	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Verrucomicrobia	0.011299859
+997	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Verrucomicrobia	0.011254984
+998	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Verrucomicrobia	0.007327221
+999	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Verrucomicrobia	0.009779658
+1000	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Verrucomicrobia	0.010339851
+1005	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Verrucomicrobia	0.00729599
+1006	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Verrucomicrobia	0.00534724
+1007	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Verrucomicrobia	0.003589737
+1008	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Verrucomicrobia	0.008139889
+1013	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Verrucomicrobia	0.009739443
+1014	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Verrucomicrobia	0.011964846
+1015	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Verrucomicrobia	0.012032689
+1016	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Verrucomicrobia	0.011103697
+1021	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Verrucomicrobia	0.003518139
+1022	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Verrucomicrobia	0.008251463
+1023	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Verrucomicrobia	0.008738199
+1024	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Verrucomicrobia	0.003583754
+1029	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Verrucomicrobia	0.004685524
+1030	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Verrucomicrobia	0.004885842
+1031	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Verrucomicrobia	0.005524799
+1032	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Verrucomicrobia	0.005618575
+1037	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Verrucomicrobia	0.002912361
+1038	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Verrucomicrobia	0.006101695
+1039	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Verrucomicrobia	0.005773137
+1040	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Verrucomicrobia	0.008055964
+1045	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Verrucomicrobia	0.005538832
+1046	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Verrucomicrobia	0.004355018
+1047	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Verrucomicrobia	0.004586084
+1048	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Verrucomicrobia	0.002255398
+1053	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Verrucomicrobia	0.003321874
+1054	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Verrucomicrobia	0.013713394
+1055	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Verrucomicrobia	0.004198936
+1056	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Verrucomicrobia	0.002796994
+1057	L151	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.0171396
+1058	L152	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.012936189
+1059	L153	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.017089222
+1060	L154	Soil	Soil	AL	L15	NA	15	Planctomycetes	0.015895855
+1061	L21	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.012520635
+1062	L22	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.013196378
+1063	L23	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.015861048
+1064	L24	Soil	Soil	AL	L2	NA	2	Planctomycetes	0.001394164
+1065	L251	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.015174733
+1066	L252	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013910718
+1067	L253	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013732567
+1068	L254	Soil	Soil	AL	L25	NA	25	Planctomycetes	0.013243206
+1069	L401	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.012431125
+1070	L402	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.012154059
+1071	L403	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.014969939
+1072	L404	Soil	Soil	AL	L40	NA	40	Planctomycetes	0.01681918
+1077	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Planctomycetes	0.020737603
+1078	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Planctomycetes	0.0113824
+1079	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Planctomycetes	0.01286913
+1080	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Planctomycetes	0.017837277
+1085	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Planctomycetes	0.024816973
+1086	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Planctomycetes	0.017079182
+1087	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Planctomycetes	0.019000479
+1088	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Planctomycetes	0.016469623
+1093	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Planctomycetes	0.022073013
+1094	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Planctomycetes	0.019019761
+1095	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Planctomycetes	0.01275615
+1096	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Planctomycetes	0.014861264
+1101	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Planctomycetes	0.021252101
+1102	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Planctomycetes	0.024225784
+1103	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Planctomycetes	0.02070896
+1104	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Planctomycetes	0.021953824
+1109	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Planctomycetes	0.008280637
+1110	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Planctomycetes	0.022968127
+1111	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Planctomycetes	0.02658587
+1112	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Planctomycetes	0.011998938
+1117	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Planctomycetes	0.01936772
+1118	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Planctomycetes	0.018797843
+1119	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Planctomycetes	0.024051139
+1120	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Planctomycetes	0.021996121
+1125	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Planctomycetes	0.003516307
+1126	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Planctomycetes	0.012372881
+1127	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Planctomycetes	0.006156946
+1128	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Planctomycetes	0.002864695
+1133	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Planctomycetes	0.021818182
+1134	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Planctomycetes	0.006988285
+1135	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Planctomycetes	0.005944383
+1136	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Planctomycetes	0.011968988
+1141	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Planctomycetes	0.016391778
+1142	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Planctomycetes	0.013713394
+1143	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Planctomycetes	0.019595036
+1144	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Planctomycetes	0.007762073
+1145	L151	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.036952598
+1146	L152	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.047559517
+1147	L153	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.042114193
+1148	L154	Soil	Soil	AL	L15	NA	15	Bacteroidetes	0.094032203
+1149	L21	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.05786072
+1150	L22	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.065436124
+1151	L23	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.05704951
+1152	L24	Soil	Soil	AL	L2	NA	2	Bacteroidetes	0.019632111
+1153	L251	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.031719125
+1154	L252	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.046309317
+1155	L253	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.039663477
+1156	L254	Soil	Soil	AL	L25	NA	25	Bacteroidetes	0.034711684
+1157	L401	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.050503965
+1158	L402	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.041090377
+1159	L403	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.057150578
+1160	L404	Soil	Soil	AL	L40	NA	40	Bacteroidetes	0.050740556
+1165	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Bacteroidetes	0.031779012
+1166	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Bacteroidetes	0.098394824
+1167	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Bacteroidetes	0.041780969
+1168	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Bacteroidetes	0.031412107
+1173	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Bacteroidetes	0.061355665
+1174	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Bacteroidetes	0.031773373
+1175	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Bacteroidetes	0.04724839
+1176	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Bacteroidetes	0.068288033
+1181	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Bacteroidetes	0.03194639
+1182	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Bacteroidetes	0.03586886
+1183	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Bacteroidetes	0.012915105
+1184	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Bacteroidetes	0.065437287
+1189	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Bacteroidetes	0.033307309
+1190	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Bacteroidetes	0.03378151
+1191	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Bacteroidetes	0.033683568
+1192	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Bacteroidetes	0.026077672
+1197	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Bacteroidetes	0.078077806
+1198	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Bacteroidetes	0.026207393
+1199	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Bacteroidetes	0.023337223
+1200	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Bacteroidetes	0.005654367
+1205	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Bacteroidetes	0.010009983
+1206	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Bacteroidetes	0.013659056
+1207	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Bacteroidetes	0.013869071
+1208	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Bacteroidetes	0.016005632
+1213	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Bacteroidetes	0.017326533
+1214	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Bacteroidetes	0.012496148
+1215	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Bacteroidetes	0.089571573
+1216	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Bacteroidetes	0.145972809
+1221	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Bacteroidetes	0.024250452
+1222	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Bacteroidetes	0.021741332
+1223	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Bacteroidetes	0.076999474
+1224	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Bacteroidetes	0.010174922
+1229	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Bacteroidetes	0.012750772
+1230	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Bacteroidetes	0.09937565
+1231	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Bacteroidetes	0.018195391
+1232	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Bacteroidetes	0.010807322
+1233	L151	Soil	Soil	AL	L15	NA	15	Firmicutes	0.026761118
+1234	L152	Soil	Soil	AL	L15	NA	15	Firmicutes	0.065088597
+1235	L153	Soil	Soil	AL	L15	NA	15	Firmicutes	0.033508011
+1236	L154	Soil	Soil	AL	L15	NA	15	Firmicutes	0.077629325
+1237	L21	Soil	Soil	AL	L2	NA	2	Firmicutes	0.016941328
+1238	L22	Soil	Soil	AL	L2	NA	2	Firmicutes	0.03129067
+1239	L23	Soil	Soil	AL	L2	NA	2	Firmicutes	0.028371171
+1240	L24	Soil	Soil	AL	L2	NA	2	Firmicutes	0.802711508
+1241	L251	Soil	Soil	AL	L25	NA	25	Firmicutes	0.032058149
+1242	L252	Soil	Soil	AL	L25	NA	25	Firmicutes	0.025298481
+1243	L253	Soil	Soil	AL	L25	NA	25	Firmicutes	0.057382512
+1244	L254	Soil	Soil	AL	L25	NA	25	Firmicutes	0.02859015
+1245	L401	Soil	Soil	AL	L40	NA	40	Firmicutes	0.011033463
+1246	L402	Soil	Soil	AL	L40	NA	40	Firmicutes	0.024375193
+1247	L403	Soil	Soil	AL	L40	NA	40	Firmicutes	0.013699926
+1248	L404	Soil	Soil	AL	L40	NA	40	Firmicutes	0.010350265
+1253	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Firmicutes	0.01064184
+1254	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Firmicutes	0.068592155
+1255	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Firmicutes	0.006374052
+1256	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Firmicutes	0.014937313
+1261	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Firmicutes	0.02004294
+1262	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Firmicutes	0.011805703
+1263	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Firmicutes	0.013172601
+1264	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Firmicutes	0.007109475
+1269	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Firmicutes	0.012345026
+1270	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Firmicutes	0.03844983
+1271	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Firmicutes	0.415442491
+1272	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Firmicutes	0.022258753
+1277	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Firmicutes	0.011578822
+1278	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Firmicutes	0.028559508
+1279	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Firmicutes	0.011210167
+1280	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Firmicutes	0.015774723
+1285	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Firmicutes	0.072444258
+1286	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Firmicutes	0.01155738
+1287	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Firmicutes	0.009692903
+1288	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Firmicutes	0.016392355
+1293	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Firmicutes	0.032772047
+1294	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Firmicutes	0.022472209
+1295	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Firmicutes	0.020249986
+1296	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Firmicutes	0.016576787
+1301	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Firmicutes	0.00224131
+1302	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Firmicutes	0.003590139
+1303	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Firmicutes	0.094081336
+1304	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Firmicutes	0.241979646
+1309	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Firmicutes	0.006815172
+1310	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Firmicutes	0.003578542
+1311	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Firmicutes	0.058231583
+1312	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Firmicutes	0.002921766
+1317	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Firmicutes	0.004351799
+1318	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Firmicutes	0.012486993
+1319	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Firmicutes	0.006936021
+1320	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Firmicutes	0.007844825
+1321	L151	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.172305229
+1322	L152	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.140599522
+1323	L153	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.188583469
+1324	L154	Soil	Soil	AL	L15	NA	15	Acidobacteria	0.167221651
+1325	L21	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.209325425
+1326	L22	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.187730027
+1327	L23	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.234243668
+1328	L24	Soil	Soil	AL	L2	NA	2	Acidobacteria	0.019959313
+1329	L251	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.184917481
+1330	L252	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.17132655
+1331	L253	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.122888869
+1332	L254	Soil	Soil	AL	L25	NA	25	Acidobacteria	0.198027314
+1333	L401	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.188442414
+1334	L402	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.156138068
+1335	L403	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.154049855
+1336	L404	Soil	Soil	AL	L40	NA	40	Acidobacteria	0.140429374
+1341	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Acidobacteria	0.051397824
+1342	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Acidobacteria	0.056722518
+1343	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Acidobacteria	0.043663601
+1344	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Acidobacteria	0.04643692
+1349	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Acidobacteria	0.061649042
+1350	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Acidobacteria	0.063268497
+1351	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Acidobacteria	0.062150726
+1352	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Acidobacteria	0.060318007
+1357	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Acidobacteria	0.063430173
+1358	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Acidobacteria	0.065821344
+1359	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Acidobacteria	0.040255388
+1360	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Acidobacteria	0.069626546
+1365	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Acidobacteria	0.081700168
+1366	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Acidobacteria	0.070227857
+1367	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Acidobacteria	0.079054897
+1368	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Acidobacteria	0.074255972
+1373	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Acidobacteria	0.016221903
+1374	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Acidobacteria	0.071250517
+1375	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Acidobacteria	0.096159966
+1376	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Acidobacteria	0.03173613
+1381	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Acidobacteria	0.067740433
+1382	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Acidobacteria	0.092511482
+1383	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Acidobacteria	0.082620855
+1384	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Acidobacteria	0.087546157
+1389	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Acidobacteria	0.007233928
+1390	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Acidobacteria	0.008551618
+1391	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Acidobacteria	0.021461355
+1392	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Acidobacteria	0.026399506
+1397	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Acidobacteria	0.025117399
+1398	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Acidobacteria	0.016829277
+1399	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Acidobacteria	0.015992873
+1400	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Acidobacteria	0.013288909
+1405	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Acidobacteria	0.016188694
+1406	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Acidobacteria	0.053627174
+1407	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Acidobacteria	0.018148736
+1408	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Acidobacteria	0.009946708
+1409	L151	Soil	Soil	AL	L15	NA	15	Unassigned	0.11572962
+1410	L152	Soil	Soil	AL	L15	NA	15	Unassigned	0.109549951
+1411	L153	Soil	Soil	AL	L15	NA	15	Unassigned	0.11298863
+1412	L154	Soil	Soil	AL	L15	NA	15	Unassigned	0.094141829
+1413	L21	Soil	Soil	AL	L2	NA	2	Unassigned	0.146078733
+1414	L22	Soil	Soil	AL	L2	NA	2	Unassigned	0.142165438
+1415	L23	Soil	Soil	AL	L2	NA	2	Unassigned	0.1482645
+1416	L24	Soil	Soil	AL	L2	NA	2	Unassigned	0.015876403
+1417	L251	Soil	Soil	AL	L25	NA	25	Unassigned	0.136260696
+1418	L252	Soil	Soil	AL	L25	NA	25	Unassigned	0.131703753
+1419	L253	Soil	Soil	AL	L25	NA	25	Unassigned	0.111621122
+1420	L254	Soil	Soil	AL	L25	NA	25	Unassigned	0.134259898
+1421	L401	Soil	Soil	AL	L40	NA	40	Unassigned	0.121959414
+1422	L402	Soil	Soil	AL	L40	NA	40	Unassigned	0.136230095
+1423	L403	Soil	Soil	AL	L40	NA	40	Unassigned	0.116638519
+1424	L404	Soil	Soil	AL	L40	NA	40	Unassigned	0.10249188
+1429	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Unassigned	0.049559809
+1430	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Unassigned	0.044297973
+1431	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Unassigned	0.043313969
+1432	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Unassigned	0.052624342
+1437	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Unassigned	0.055621491
+1438	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Unassigned	0.043367077
+1439	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Unassigned	0.052277929
+1440	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Unassigned	0.054664848
+1445	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Unassigned	0.059240265
+1446	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Unassigned	0.052823846
+1447	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Unassigned	0.03408263
+1448	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Unassigned	0.054738768
+1453	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Unassigned	0.064523813
+1454	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Unassigned	0.061089353
+1455	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Unassigned	0.064766908
+1456	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Unassigned	0.0645002
+1461	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Unassigned	0.022341882
+1462	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Unassigned	0.058906648
+1463	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Unassigned	0.072875782
+1464	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Unassigned	0.022975843
+1469	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Unassigned	0.049584027
+1470	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Unassigned	0.065805764
+1471	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Unassigned	0.063249815
+1472	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Unassigned	0.067569004
+1477	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Unassigned	0.042021205
+1478	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Unassigned	0.101710324
+1479	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Unassigned	0.02961731
+1480	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Unassigned	0.023613947
+1485	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Unassigned	0.045033113
+1486	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Unassigned	0.103862125
+1487	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Unassigned	0.087836654
+1488	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Unassigned	0.039674505
+1493	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Unassigned	0.057255175
+1494	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Unassigned	0.040248253
+1495	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Unassigned	0.027510808
+1496	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Unassigned	0.035500314
+1497	L151	Soil	Soil	AL	L15	NA	15	Cyanobacteria	6.79E-05
+1498	L152	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000122296
+1499	L153	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000123141
+1500	L154	Soil	Soil	AL	L15	NA	15	Cyanobacteria	0.000178143
+1501	L21	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000433676
+1502	L22	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000223905
+1503	L23	Soil	Soil	AL	L2	NA	2	Cyanobacteria	0.000335093
+1504	L24	Soil	Soil	AL	L2	NA	2	Cyanobacteria	5.69E-05
+1505	L251	Soil	Soil	AL	L25	NA	25	Cyanobacteria	0.000216976
+1506	L252	Soil	Soil	AL	L25	NA	25	Cyanobacteria	8.27E-05
+1507	L253	Soil	Soil	AL	L25	NA	25	Cyanobacteria	0.000138332
+1508	L254	Soil	Soil	AL	L25	NA	25	Cyanobacteria	3.45E-05
+1509	L401	Soil	Soil	AL	L40	NA	40	Cyanobacteria	8.06E-05
+1510	L402	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000295132
+1511	L403	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000770114
+1512	L404	Soil	Soil	AL	L40	NA	40	Cyanobacteria	0.000835568
+1517	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Cyanobacteria	0.062172853
+1518	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Cyanobacteria	0.033159191
+1519	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Cyanobacteria	0.050024205
+1520	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Cyanobacteria	0.074811565
+1525	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Cyanobacteria	0.018496046
+1526	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Cyanobacteria	0.02510865
+1527	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Cyanobacteria	0.026358508
+1528	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Cyanobacteria	0.073318947
+1533	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Cyanobacteria	0.106545243
+1534	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Cyanobacteria	0.057893135
+1535	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Cyanobacteria	0.056826461
+1536	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Cyanobacteria	0.079847808
+1541	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Cyanobacteria	0.032129577
+1542	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Cyanobacteria	0.020914927
+1543	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Cyanobacteria	0.036774656
+1544	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Cyanobacteria	0.036580809
+1549	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Cyanobacteria	0.009524995
+1550	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Cyanobacteria	0.015223216
+1551	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Cyanobacteria	0.004137053
+1552	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Cyanobacteria	0.002654632
+1557	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Cyanobacteria	0.017810316
+1558	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Cyanobacteria	0.018172136
+1559	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Cyanobacteria	0.047132013
+1560	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Cyanobacteria	0.023988524
+1565	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Cyanobacteria	0.577788216
+1566	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Cyanobacteria	0.444545455
+1567	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Cyanobacteria	0.393868641
+1568	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Cyanobacteria	0.227766963
+1573	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Cyanobacteria	0.083636364
+1574	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Cyanobacteria	0.562354411
+1575	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Cyanobacteria	0.186700356
+1576	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Cyanobacteria	0.56655347
+1581	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Cyanobacteria	0.388891307
+1582	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Cyanobacteria	0.152705515
+1583	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Cyanobacteria	0.325464216
+1584	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Cyanobacteria	0.652262421
+1585	L151	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.119624367
+1586	L152	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.156620285
+1587	L153	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.121198024
+1588	L154	Soil	Soil	AL	L15	NA	15	Actinobacteria	0.079972593
+1589	L21	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.080873507
+1590	L22	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.103751802
+1591	L23	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.082460696
+1592	L24	Soil	Soil	AL	L2	NA	2	Actinobacteria	0.016658842
+1593	L251	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.098886644
+1594	L252	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.126244244
+1595	L253	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.138168237
+1596	L254	Soil	Soil	AL	L25	NA	25	Actinobacteria	0.136156711
+1597	L401	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.162451283
+1598	L402	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.195296674
+1599	L403	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.201067351
+1600	L404	Soil	Soil	AL	L40	NA	40	Actinobacteria	0.252732443
+1605	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Actinobacteria	0.229658635
+1606	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Actinobacteria	0.177015943
+1607	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Actinobacteria	0.189876822
+1608	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Actinobacteria	0.260984238
+1613	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Actinobacteria	0.253543853
+1614	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Actinobacteria	0.24259328
+1615	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Actinobacteria	0.248123902
+1616	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Actinobacteria	0.198562218
+1621	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Actinobacteria	0.227378466
+1622	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Actinobacteria	0.25988379
+1623	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Actinobacteria	0.162544872
+1624	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Actinobacteria	0.206771752
+1629	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Actinobacteria	0.287961995
+1630	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Actinobacteria	0.308380775
+1631	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Actinobacteria	0.279763326
+1632	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Actinobacteria	0.302855999
+1637	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Actinobacteria	0.104220636
+1638	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Actinobacteria	0.321100551
+1639	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Actinobacteria	0.285960539
+1640	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Actinobacteria	0.195327847
+1645	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Actinobacteria	0.372778702
+1646	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Actinobacteria	0.342488185
+1647	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Actinobacteria	0.325289652
+1648	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Actinobacteria	0.334590761
+1653	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Actinobacteria	0.180499262
+1654	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Actinobacteria	0.144884438
+1655	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Actinobacteria	0.157889687
+1656	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Actinobacteria	0.131142871
+1661	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Actinobacteria	0.335918122
+1662	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Actinobacteria	0.095270247
+1663	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Actinobacteria	0.313883858
+1664	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Actinobacteria	0.169834049
+1669	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Actinobacteria	0.224045143
+1670	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Actinobacteria	0.226884198
+1671	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Actinobacteria	0.287471618
+1672	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Actinobacteria	0.128562444
+1673	L151	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.397359172
+1674	L152	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.375760952
+1675	L153	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.377467949
+1676	L154	Soil	Soil	AL	L15	NA	15	Proteobacteria	0.364193217
+1677	L21	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.348003693
+1678	L22	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.333813795
+1679	L23	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.297478428
+1680	L24	Soil	Soil	AL	L2	NA	2	Proteobacteria	0.107179947
+1681	L251	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.393173404
+1682	L252	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.372873411
+1683	L253	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.425080798
+1684	L254	Soil	Soil	AL	L25	NA	25	Proteobacteria	0.351065664
+1685	L401	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.312726784
+1686	L402	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.327515662
+1687	L403	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.3156117
+1688	L404	Soil	Soil	AL	L40	NA	40	Proteobacteria	0.312057789
+1693	RBL15S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Proteobacteria	0.507798245
+1694	RBL15S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Proteobacteria	0.467476924
+1695	RBL15S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Proteobacteria	0.580065623
+1696	RBL15S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L15S	NA	15	Proteobacteria	0.468869139
+1701	RBL25S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Proteobacteria	0.464054728
+1702	RBL25S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Proteobacteria	0.542797329
+1703	RBL25S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Proteobacteria	0.497405397
+1704	RBL25S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L25S	NA	25	Proteobacteria	0.488514954
+1709	RBL40S1	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Proteobacteria	0.431943747
+1710	RBL40S2	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Proteobacteria	0.435561791
+1711	RBL40S3	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Proteobacteria	0.246367213
+1712	RBL40S4	Rhizoplane	Hippophae rhamnoides	AL	RB.L40S	NA	40	Proteobacteria	0.454388779
+1717	RJL15S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Proteobacteria	0.430308724
+1718	RJL15S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Proteobacteria	0.413574514
+1719	RJL15S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Proteobacteria	0.433733981
+1720	RJL15S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L15S	NA	15	Proteobacteria	0.419538236
+1725	RJL25S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Proteobacteria	0.673016663
+1726	RJL25S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Proteobacteria	0.437700788
+1727	RJL25S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Proteobacteria	0.439774053
+1728	RJL25S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L25S	NA	25	Proteobacteria	0.69404035
+1733	RJL40S1	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Proteobacteria	0.40359401
+1734	RJL40S2	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Proteobacteria	0.395540172
+1735	RJL40S3	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Proteobacteria	0.387592032
+1736	RJL40S4	Rhizosphere	Hippophae rhamnoides	AL	RJ.L40S	NA	40	Proteobacteria	0.394508939
+1741	RL15S1	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Proteobacteria	0.15224802
+1742	RL15S2	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Proteobacteria	0.236918336
+1743	RL15S3	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Proteobacteria	0.182533463
+1744	RL15S4	Endosphere	Hippophae rhamnoides	AL	R.L15S	NA	15	Proteobacteria	0.169871643
+1749	RL25S1	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Proteobacteria	0.442889825
+1750	RL25S2	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Proteobacteria	0.180631984
+1751	RL25S3	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Proteobacteria	0.236008062
+1752	RL25S4	Endosphere	Hippophae rhamnoides	AL	R.L25S	NA	25	Proteobacteria	0.178945345
+1757	RL40S1	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Proteobacteria	0.269971133
+1758	RL40S2	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Proteobacteria	0.366545265
+1759	RL40S3	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Proteobacteria	0.285247737
+1760	RL40S4	Endosphere	Hippophae rhamnoides	AL	R.L40S	NA	40	Proteobacteria	0.135132899

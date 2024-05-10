@@ -1,0 +1,1361 @@
+	SampleID	Compartment	Cultivar	Site	Group	Type	Age	Phylum2	RA
+1	G01	Soil	Soil	GE	G0	Soil	0	Parcubacteria	0.000123853
+2	G02	Soil	Soil	GE	G0	Soil	0	Parcubacteria	1.37E-05
+3	G03	Soil	Soil	GE	G0	Soil	0	Parcubacteria	8.44E-05
+4	G04	Soil	Soil	GE	G0	Soil	0	Parcubacteria	4.12E-05
+5	G151	Soil	Soil	GE	G15	Soil	15	Parcubacteria	0.000176813
+6	G152	Soil	Soil	GE	G15	Soil	15	Parcubacteria	0.000148242
+7	G153	Soil	Soil	GE	G15	Soil	15	Parcubacteria	0.000162059
+8	G154	Soil	Soil	GE	G15	Soil	15	Parcubacteria	0.000161121
+9	G281	Soil	Soil	GE	G28	Soil	28	Parcubacteria	0.000232133
+10	G282	Soil	Soil	GE	G28	Soil	28	Parcubacteria	0.000177562
+11	G283	Soil	Soil	GE	G28	Soil	28	Parcubacteria	0.000107434
+12	G284	Soil	Soil	GE	G28	Soil	28	Parcubacteria	1.35E-05
+13	G361	Soil	Soil	GE	G36	Soil	36	Parcubacteria	5.38E-05
+14	G362	Soil	Soil	GE	G36	Soil	36	Parcubacteria	0.000279621
+15	G363	Soil	Soil	GE	G36	Soil	36	Parcubacteria	0.000123564
+16	G364	Soil	Soil	GE	G36	Soil	36	Parcubacteria	0.000167872
+17	G51	Soil	Soil	GE	G5	Soil	5	Parcubacteria	8.03E-05
+18	G52	Soil	Soil	GE	G5	Soil	5	Parcubacteria	9.47E-05
+19	G53	Soil	Soil	GE	G5	Soil	5	Parcubacteria	5.39E-05
+20	G54	Soil	Soil	GE	G5	Soil	5	Parcubacteria	4.03E-05
+29	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Parcubacteria	0.000184589
+30	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Parcubacteria	0.00013182
+31	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Parcubacteria	0.000266053
+32	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Parcubacteria	5.28E-05
+33	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Parcubacteria	5.34E-05
+34	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Parcubacteria	5.34E-05
+35	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Parcubacteria	1.33E-05
+36	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Parcubacteria	1.14E-05
+41	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Parcubacteria	1.34E-05
+42	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Parcubacteria	1.34E-05
+43	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Parcubacteria	5.36E-05
+44	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Parcubacteria	5.39E-05
+53	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Parcubacteria	6.20E-05
+54	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Parcubacteria	0.000106557
+55	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Parcubacteria	3.98E-05
+56	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Parcubacteria	3.96E-05
+65	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Parcubacteria	2.69E-05
+66	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Parcubacteria	4.17E-05
+67	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Parcubacteria	0.000656903
+68	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Parcubacteria	3.03E-05
+69	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Parcubacteria	4.09E-05
+70	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Parcubacteria	4.09E-05
+71	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Parcubacteria	4.09E-05
+72	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Parcubacteria	4.09E-05
+77	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Parcubacteria	1.36E-05
+78	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Parcubacteria	2.73E-05
+79	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Parcubacteria	2.05E-05
+80	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Parcubacteria	4.15E-05
+89	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Parcubacteria	2.72E-05
+90	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Parcubacteria	2.72E-05
+91	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Parcubacteria	2.72E-05
+92	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Parcubacteria	2.72E-05
+101	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Parcubacteria	0.000106795
+102	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Parcubacteria	0.000133586
+103	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Parcubacteria	5.32E-05
+104	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Parcubacteria	4.01E-05
+105	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Parcubacteria	2.66E-05
+106	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Parcubacteria	4.00E-05
+107	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Parcubacteria	3.33E-05
+108	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Parcubacteria	3.67E-05
+113	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Parcubacteria	7.15E-05
+114	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Parcubacteria	0.000121153
+115	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Parcubacteria	2.66E-05
+116	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Parcubacteria	6.67E-05
+125	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Parcubacteria	1.33E-05
+126	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Parcubacteria	1.33E-05
+127	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Parcubacteria	5.35E-05
+128	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Parcubacteria	5.35E-05
+129	G01	Soil	Soil	GE	G0	Soil	0	BRC1	0.000220182
+130	G02	Soil	Soil	GE	G0	Soil	0	BRC1	4.10E-05
+131	G03	Soil	Soil	GE	G0	Soil	0	BRC1	7.04E-05
+132	G04	Soil	Soil	GE	G0	Soil	0	BRC1	0.000109973
+133	G151	Soil	Soil	GE	G15	Soil	15	BRC1	8.16E-05
+134	G152	Soil	Soil	GE	G15	Soil	15	BRC1	0.00035039
+135	G153	Soil	Soil	GE	G15	Soil	15	BRC1	0.000150294
+136	G154	Soil	Soil	GE	G15	Soil	15	BRC1	0.000268536
+137	G281	Soil	Soil	GE	G28	Soil	28	BRC1	1.37E-05
+138	G282	Soil	Soil	GE	G28	Soil	28	BRC1	0.000136586
+139	G283	Soil	Soil	GE	G28	Soil	28	BRC1	0.000161152
+140	G284	Soil	Soil	GE	G28	Soil	28	BRC1	0.000148801
+141	G361	Soil	Soil	GE	G36	Soil	36	BRC1	9.41E-05
+142	G362	Soil	Soil	GE	G36	Soil	36	BRC1	0.000457561
+143	G363	Soil	Soil	GE	G36	Soil	36	BRC1	0.000109834
+144	G364	Soil	Soil	GE	G36	Soil	36	BRC1	0.000181861
+145	G51	Soil	Soil	GE	G5	Soil	5	BRC1	0.000208805
+146	G52	Soil	Soil	GE	G5	Soil	5	BRC1	2.70E-05
+147	G53	Soil	Soil	GE	G5	Soil	5	BRC1	0.000161636
+148	G54	Soil	Soil	GE	G5	Soil	5	BRC1	8.06E-05
+157	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	BRC1	0.000276884
+158	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	BRC1	0.000224094
+159	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	BRC1	0.000359172
+160	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	BRC1	0.000171724
+161	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	BRC1	8.01E-05
+162	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	BRC1	8.01E-05
+163	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	BRC1	0.00010667
+164	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	BRC1	3.41E-05
+169	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	BRC1	6.69E-05
+170	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	BRC1	5.35E-05
+171	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	BRC1	8.03E-05
+172	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	BRC1	0.000121351
+181	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	BRC1	5.29E-05
+182	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	BRC1	0.000119877
+183	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	BRC1	0.000132647
+184	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	BRC1	0.000184936
+193	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	BRC1	9.42E-05
+194	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	BRC1	0.000125181
+195	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	BRC1	0.000238874
+196	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	BRC1	3.03E-05
+197	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	BRC1	0.000115447
+198	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	BRC1	9.54E-05
+199	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	BRC1	6.84E-05
+200	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	BRC1	0.000120035
+205	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	BRC1	0.000203285
+206	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	BRC1	4.10E-05
+207	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	BRC1	0.000197734
+208	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	BRC1	0.000193568
+217	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	BRC1	0.000137191
+218	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	BRC1	6.80E-05
+219	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	BRC1	0.000136586
+220	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	BRC1	8.55E-05
+229	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	BRC1	0.000146843
+230	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	BRC1	0.000146945
+231	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	BRC1	0.000132973
+232	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	BRC1	0.000160406
+233	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	BRC1	2.66E-05
+234	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	BRC1	0.000133494
+235	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	BRC1	1.24E-05
+236	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	BRC1	0.000187221
+241	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	BRC1	0.000132109
+242	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	BRC1	1.35E-05
+243	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	BRC1	6.66E-05
+244	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	BRC1	5.33E-05
+253	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	BRC1	3.98E-05
+254	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	BRC1	5.32E-05
+255	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	BRC1	4.01E-05
+256	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	BRC1	6.65E-05
+257	G01	Soil	Soil	GE	G0	Soil	0	Fibrobacteres	0.000646786
+258	G02	Soil	Soil	GE	G0	Soil	0	Fibrobacteres	0.000355483
+259	G03	Soil	Soil	GE	G0	Soil	0	Fibrobacteres	0.000281484
+260	G04	Soil	Soil	GE	G0	Soil	0	Fibrobacteres	0.000412399
+261	G151	Soil	Soil	GE	G15	Soil	15	Fibrobacteres	0.000176813
+262	G152	Soil	Soil	GE	G15	Soil	15	Fibrobacteres	8.09E-05
+263	G153	Soil	Soil	GE	G15	Soil	15	Fibrobacteres	0.000273261
+264	G154	Soil	Soil	GE	G15	Soil	15	Fibrobacteres	0.000134268
+265	G281	Soil	Soil	GE	G28	Soil	28	Fibrobacteres	0.00045061
+266	G282	Soil	Soil	GE	G28	Soil	28	Fibrobacteres	0.000546344
+267	G283	Soil	Soil	GE	G28	Soil	28	Fibrobacteres	0.00038945
+268	G284	Soil	Soil	GE	G28	Soil	28	Fibrobacteres	0.000432877
+269	G361	Soil	Soil	GE	G36	Soil	36	Fibrobacteres	5.38E-05
+270	G362	Soil	Soil	GE	G36	Soil	36	Fibrobacteres	5.08E-05
+271	G363	Soil	Soil	GE	G36	Soil	36	Fibrobacteres	0.000205939
+272	G364	Soil	Soil	GE	G36	Soil	36	Fibrobacteres	4.20E-05
+273	G51	Soil	Soil	GE	G5	Soil	5	Fibrobacteres	0.000128495
+274	G52	Soil	Soil	GE	G5	Soil	5	Fibrobacteres	9.47E-05
+275	G53	Soil	Soil	GE	G5	Soil	5	Fibrobacteres	0.000727361
+276	G54	Soil	Soil	GE	G5	Soil	5	Fibrobacteres	0.000174687
+285	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Fibrobacteres	0.000118665
+286	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Fibrobacteres	3.95E-05
+287	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Fibrobacteres	7.98E-05
+288	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Fibrobacteres	3.96E-05
+289	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Fibrobacteres	0.000133565
+290	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Fibrobacteres	0.000133424
+291	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Fibrobacteres	0.000133495
+292	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Fibrobacteres	0.000159167
+297	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Fibrobacteres	2.68E-05
+298	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Fibrobacteres	0.000147202
+299	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Fibrobacteres	2.68E-05
+300	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Fibrobacteres	6.69E-05
+309	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Fibrobacteres	9.25E-05
+310	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Fibrobacteres	4.00E-05
+311	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Fibrobacteres	7.96E-05
+312	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Fibrobacteres	5.28E-05
+321	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Fibrobacteres	2.69E-05
+322	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Fibrobacteres	8.35E-05
+323	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Fibrobacteres	8.96E-05
+324	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Fibrobacteres	0.00012119
+325	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Fibrobacteres	0.000101016
+326	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Fibrobacteres	0.000653978
+327	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Fibrobacteres	0.000588259
+328	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Fibrobacteres	1.33E-05
+333	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Fibrobacteres	1.36E-05
+334	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Fibrobacteres	2.91E-05
+335	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Fibrobacteres	3.04E-05
+336	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Fibrobacteres	2.77E-05
+345	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Fibrobacteres	0.000274382
+346	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Fibrobacteres	0.000380704
+347	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Fibrobacteres	0.000887808
+348	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Fibrobacteres	0.000213693
+357	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Fibrobacteres	0.000173542
+358	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Fibrobacteres	4.01E-05
+359	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Fibrobacteres	2.66E-05
+360	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Fibrobacteres	0.000106938
+361	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Fibrobacteres	1.33E-05
+362	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Fibrobacteres	0.000120144
+363	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Fibrobacteres	9.96E-05
+364	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Fibrobacteres	9.36E-05
+369	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Fibrobacteres	9.91E-05
+370	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Fibrobacteres	4.04E-05
+371	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Fibrobacteres	7.99E-05
+372	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Fibrobacteres	2.67E-05
+381	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Fibrobacteres	5.31E-05
+382	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Fibrobacteres	0.000132979
+383	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Fibrobacteres	0.000227349
+384	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Fibrobacteres	0.000159676
+385	G01	Soil	Soil	GE	G0	Soil	0	Latescibacteria	0.00147247
+386	G02	Soil	Soil	GE	G0	Soil	0	Latescibacteria	0.000533224
+387	G03	Soil	Soil	GE	G0	Soil	0	Latescibacteria	0.000717784
+388	G04	Soil	Soil	GE	G0	Soil	0	Latescibacteria	0.000659839
+389	G151	Soil	Soil	GE	G15	Soil	15	Latescibacteria	0.001876938
+390	G152	Soil	Soil	GE	G15	Soil	15	Latescibacteria	0.00288398
+391	G153	Soil	Soil	GE	G15	Soil	15	Latescibacteria	0.001407296
+392	G154	Soil	Soil	GE	G15	Soil	15	Latescibacteria	0.003584951
+393	G281	Soil	Soil	GE	G28	Soil	28	Latescibacteria	0.0019663
+394	G282	Soil	Soil	GE	G28	Soil	28	Latescibacteria	0.002581473
+395	G283	Soil	Soil	GE	G28	Soil	28	Latescibacteria	0.004834551
+396	G284	Soil	Soil	GE	G28	Soil	28	Latescibacteria	0.001920892
+397	G361	Soil	Soil	GE	G36	Soil	36	Latescibacteria	0.002756896
+398	G362	Soil	Soil	GE	G36	Soil	36	Latescibacteria	0.007155749
+399	G363	Soil	Soil	GE	G36	Soil	36	Latescibacteria	0.006246825
+400	G364	Soil	Soil	GE	G36	Soil	36	Latescibacteria	0.004126855
+401	G51	Soil	Soil	GE	G5	Soil	5	Latescibacteria	0.002891148
+402	G52	Soil	Soil	GE	G5	Soil	5	Latescibacteria	0.00043269
+403	G53	Soil	Soil	GE	G5	Soil	5	Latescibacteria	0.00037715
+404	G54	Soil	Soil	GE	G5	Soil	5	Latescibacteria	0.00182749
+413	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Latescibacteria	0.000382364
+414	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Latescibacteria	0.000290004
+415	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Latescibacteria	0.000292658
+416	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Latescibacteria	0.000250981
+417	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Latescibacteria	0.00026713
+418	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Latescibacteria	0.000240163
+419	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Latescibacteria	9.33E-05
+420	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Latescibacteria	0.000216012
+425	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Latescibacteria	0.000521851
+426	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Latescibacteria	0.000548664
+427	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Latescibacteria	0.000401676
+428	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Latescibacteria	0.000525855
+437	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Latescibacteria	0.000118941
+438	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Latescibacteria	0.000186475
+439	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Latescibacteria	0.000397941
+440	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Latescibacteria	0.000171726
+449	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Latescibacteria	1.35E-05
+450	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Latescibacteria	0.000194726
+451	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Latescibacteria	0.000149296
+452	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Latescibacteria	0.000257529
+453	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Latescibacteria	0.000245324
+454	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Latescibacteria	0.000177119
+455	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Latescibacteria	0.000136805
+456	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Latescibacteria	0.000186416
+461	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Latescibacteria	0.000257494
+462	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Latescibacteria	2.73E-05
+463	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Latescibacteria	0.000106472
+464	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Latescibacteria	0.00011061
+473	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Latescibacteria	6.86E-05
+474	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Latescibacteria	0.000135966
+475	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Latescibacteria	0.000136586
+476	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Latescibacteria	9.97E-05
+485	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Latescibacteria	0.000600721
+486	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Latescibacteria	0.000547704
+487	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Latescibacteria	0.000505299
+488	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Latescibacteria	0.000534688
+489	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Latescibacteria	0.000146407
+490	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Latescibacteria	0.000320384
+491	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Latescibacteria	0.000233396
+492	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Latescibacteria	0.000240713
+497	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Latescibacteria	0.002444019
+498	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Latescibacteria	0.000740382
+499	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Latescibacteria	0.00010656
+500	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Latescibacteria	0.000800107
+509	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Latescibacteria	0.00010624
+510	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Latescibacteria	0.000106383
+511	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Latescibacteria	0.000227349
+512	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Latescibacteria	0.000399191
+513	G01	Soil	Soil	GE	G0	Soil	0	Chloroflexi	0.004376127
+514	G02	Soil	Soil	GE	G0	Soil	0	Chloroflexi	0.004211102
+515	G03	Soil	Soil	GE	G0	Soil	0	Chloroflexi	0.004700783
+516	G04	Soil	Soil	GE	G0	Soil	0	Chloroflexi	0.004330195
+517	G151	Soil	Soil	GE	G15	Soil	15	Chloroflexi	0.004882759
+518	G152	Soil	Soil	GE	G15	Soil	15	Chloroflexi	0.003611714
+519	G153	Soil	Soil	GE	G15	Soil	15	Chloroflexi	0.007787949
+520	G154	Soil	Soil	GE	G15	Soil	15	Chloroflexi	0.002859905
+521	G281	Soil	Soil	GE	G28	Soil	28	Chloroflexi	0.005024988
+522	G282	Soil	Soil	GE	G28	Soil	28	Chloroflexi	0.00513563
+523	G283	Soil	Soil	GE	G28	Soil	28	Chloroflexi	0.003545337
+524	G284	Soil	Soil	GE	G28	Soil	28	Chloroflexi	0.00505925
+525	G361	Soil	Soil	GE	G36	Soil	36	Chloroflexi	0.003415861
+526	G362	Soil	Soil	GE	G36	Soil	36	Chloroflexi	0.004944203
+527	G363	Soil	Soil	GE	G36	Soil	36	Chloroflexi	0.006178179
+528	G364	Soil	Soil	GE	G36	Soil	36	Chloroflexi	0.005847544
+529	G51	Soil	Soil	GE	G5	Soil	5	Chloroflexi	0.001622255
+530	G52	Soil	Soil	GE	G5	Soil	5	Chloroflexi	0.003109957
+531	G53	Soil	Soil	GE	G5	Soil	5	Chloroflexi	0.003003731
+532	G54	Soil	Soil	GE	G5	Soil	5	Chloroflexi	0.001693116
+541	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Chloroflexi	0.002254628
+542	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Chloroflexi	0.001463202
+543	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Chloroflexi	0.00175595
+544	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Chloroflexi	0.001730447
+545	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Chloroflexi	0.001736343
+546	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Chloroflexi	0.001267529
+547	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Chloroflexi	0.000906691
+548	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Chloroflexi	0.002171491
+553	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Chloroflexi	0.002234592
+554	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Chloroflexi	0.001712902
+555	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Chloroflexi	0.001486202
+556	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Chloroflexi	0.001361828
+565	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Chloroflexi	0.001969128
+566	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Chloroflexi	0.00118545
+567	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Chloroflexi	0.001750942
+568	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Chloroflexi	0.001638002
+577	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Chloroflexi	0.001023032
+578	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Chloroflexi	0.004715144
+579	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Chloroflexi	0.004225079
+580	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Chloroflexi	0.000787736
+581	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Chloroflexi	0.004819903
+582	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Chloroflexi	0.004223606
+583	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Chloroflexi	0.00424094
+584	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Chloroflexi	0.005001467
+589	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Chloroflexi	0.00863284
+590	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Chloroflexi	0.005303807
+591	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Chloroflexi	0.004502244
+592	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Chloroflexi	0.005088073
+601	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Chloroflexi	0.002345969
+602	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Chloroflexi	0.002964051
+603	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Chloroflexi	0.003674161
+604	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Chloroflexi	0.00230789
+613	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Chloroflexi	0.00124149
+614	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Chloroflexi	0.001830132
+615	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Chloroflexi	0.001196761
+616	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Chloroflexi	0.001951611
+617	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Chloroflexi	0.001437451
+618	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Chloroflexi	0.001708717
+619	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Chloroflexi	0.000547652
+620	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Chloroflexi	0.00247399
+625	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Chloroflexi	0.002229341
+626	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Chloroflexi	0.002382683
+627	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Chloroflexi	0.001611722
+628	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Chloroflexi	0.001546873
+637	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Chloroflexi	0.001181923
+638	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Chloroflexi	0.001329787
+639	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Chloroflexi	0.001711802
+640	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Chloroflexi	0.001370556
+641	G01	Soil	Soil	GE	G0	Soil	0	Nitrospirae	0.005986211
+642	G02	Soil	Soil	GE	G0	Soil	0	Nitrospirae	0.003267706
+643	G03	Soil	Soil	GE	G0	Soil	0	Nitrospirae	0.003814108
+644	G04	Soil	Soil	GE	G0	Soil	0	Nitrospirae	0.003202969
+645	G151	Soil	Soil	GE	G15	Soil	15	Nitrospirae	0.005154779
+646	G152	Soil	Soil	GE	G15	Soil	15	Nitrospirae	0.003935151
+647	G153	Soil	Soil	GE	G15	Soil	15	Nitrospirae	0.003798333
+648	G154	Soil	Soil	GE	G15	Soil	15	Nitrospirae	0.004363705
+649	G281	Soil	Soil	GE	G28	Soil	28	Nitrospirae	0.004628997
+650	G282	Soil	Soil	GE	G28	Soil	28	Nitrospirae	0.005845876
+651	G283	Soil	Soil	GE	G28	Soil	28	Nitrospirae	0.006419209
+652	G284	Soil	Soil	GE	G28	Soil	28	Nitrospirae	0.004842812
+653	G361	Soil	Soil	GE	G36	Soil	36	Nitrospirae	0.002111379
+654	G362	Soil	Soil	GE	G36	Soil	36	Nitrospirae	0.005122143
+655	G363	Soil	Soil	GE	G36	Soil	36	Nitrospirae	0.005848676
+656	G364	Soil	Soil	GE	G36	Soil	36	Nitrospirae	0.004210791
+657	G51	Soil	Soil	GE	G5	Soil	5	Nitrospirae	0.004465218
+658	G52	Soil	Soil	GE	G5	Soil	5	Nitrospirae	0.002285143
+659	G53	Soil	Soil	GE	G5	Soil	5	Nitrospirae	0.002397597
+660	G54	Soil	Soil	GE	G5	Soil	5	Nitrospirae	0.003560919
+669	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Nitrospirae	0.005063024
+670	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Nitrospirae	0.005022343
+671	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Nitrospirae	0.002993096
+672	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Nitrospirae	0.005032826
+673	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Nitrospirae	0.005436089
+674	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Nitrospirae	0.00532362
+675	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Nitrospirae	0.006133497
+676	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Nitrospirae	0.004786375
+681	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Nitrospirae	0.003479006
+682	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Nitrospirae	0.002770083
+683	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Nitrospirae	0.001271975
+684	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Nitrospirae	0.003289962
+693	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Nitrospirae	0.003039594
+694	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Nitrospirae	0.004701839
+695	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Nitrospirae	0.003528413
+696	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Nitrospirae	0.005059312
+705	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Nitrospirae	0.000188453
+706	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Nitrospirae	0.00136308
+707	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Nitrospirae	0.000268733
+708	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Nitrospirae	0.001742107
+709	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Nitrospirae	0.00238109
+710	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Nitrospirae	0.00162132
+711	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Nitrospirae	0.001149158
+712	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Nitrospirae	0.001333725
+717	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Nitrospirae	0.001057082
+718	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Nitrospirae	0.001093568
+719	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Nitrospirae	0.000608411
+720	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Nitrospirae	0.001092277
+729	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Nitrospirae	0.001166125
+730	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Nitrospirae	0.00134606
+731	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Nitrospirae	0.00184391
+732	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Nitrospirae	0.000911759
+741	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Nitrospirae	0.003537578
+742	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Nitrospirae	0.004101098
+743	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Nitrospirae	0.002313737
+744	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Nitrospirae	0.003689346
+745	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Nitrospirae	0.005749804
+746	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Nitrospirae	0.004698972
+747	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Nitrospirae	0.000286273
+748	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Nitrospirae	0.004279333
+753	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Nitrospirae	0.003847678
+754	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Nitrospirae	0.002476914
+755	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Nitrospirae	0.001305361
+756	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Nitrospirae	0.002493666
+765	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Nitrospirae	0.003333289
+766	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Nitrospirae	0.003257979
+767	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Nitrospirae	0.002487462
+768	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Nitrospirae	0.003459655
+769	G01	Soil	Soil	GE	G0	Soil	0	Candidatus_Saccharibacteria	0.000660547
+770	G02	Soil	Soil	GE	G0	Soil	0	Candidatus_Saccharibacteria	0.000300793
+771	G03	Soil	Soil	GE	G0	Soil	0	Candidatus_Saccharibacteria	0.000520745
+772	G04	Soil	Soil	GE	G0	Soil	0	Candidatus_Saccharibacteria	0.000467386
+773	G151	Soil	Soil	GE	G15	Soil	15	Candidatus_Saccharibacteria	0.001033676
+774	G152	Soil	Soil	GE	G15	Soil	15	Candidatus_Saccharibacteria	0.00113203
+775	G153	Soil	Soil	GE	G15	Soil	15	Candidatus_Saccharibacteria	0.002008471
+776	G154	Soil	Soil	GE	G15	Soil	15	Candidatus_Saccharibacteria	0.000698193
+777	G281	Soil	Soil	GE	G28	Soil	28	Candidatus_Saccharibacteria	0.000737362
+778	G282	Soil	Soil	GE	G28	Soil	28	Candidatus_Saccharibacteria	0.000532685
+779	G283	Soil	Soil	GE	G28	Soil	28	Candidatus_Saccharibacteria	0.000564031
+780	G284	Soil	Soil	GE	G28	Soil	28	Candidatus_Saccharibacteria	0.000689898
+781	G361	Soil	Soil	GE	G36	Soil	36	Candidatus_Saccharibacteria	0.000484138
+782	G362	Soil	Soil	GE	G36	Soil	36	Candidatus_Saccharibacteria	0.000978673
+783	G363	Soil	Soil	GE	G36	Soil	36	Candidatus_Saccharibacteria	0.00115326
+784	G364	Soil	Soil	GE	G36	Soil	36	Candidatus_Saccharibacteria	0.003371431
+785	G51	Soil	Soil	GE	G5	Soil	5	Candidatus_Saccharibacteria	0.002361104
+786	G52	Soil	Soil	GE	G5	Soil	5	Candidatus_Saccharibacteria	0.000797772
+787	G53	Soil	Soil	GE	G5	Soil	5	Candidatus_Saccharibacteria	0.000740831
+788	G54	Soil	Soil	GE	G5	Soil	5	Candidatus_Saccharibacteria	0.00041656
+797	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Candidatus_Saccharibacteria	0.004298297
+798	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Candidatus_Saccharibacteria	0.007316012
+799	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Candidatus_Saccharibacteria	0.012384766
+800	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Candidatus_Saccharibacteria	0.006248101
+801	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Candidatus_Saccharibacteria	0.009349539
+802	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Candidatus_Saccharibacteria	0.008285634
+803	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Candidatus_Saccharibacteria	0.006880183
+804	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Candidatus_Saccharibacteria	0.009027036
+809	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Candidatus_Saccharibacteria	0.002970535
+810	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Candidatus_Saccharibacteria	0.002448914
+811	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Candidatus_Saccharibacteria	0.006600881
+812	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Candidatus_Saccharibacteria	0.003600081
+821	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Candidatus_Saccharibacteria	0.001176191
+822	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Candidatus_Saccharibacteria	0.003396513
+823	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Candidatus_Saccharibacteria	0.002944766
+824	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Candidatus_Saccharibacteria	0.00213997
+833	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Candidatus_Saccharibacteria	0.000969188
+834	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Candidatus_Saccharibacteria	0.004075331
+835	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Candidatus_Saccharibacteria	0.004717756
+836	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Candidatus_Saccharibacteria	0.000802884
+837	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Candidatus_Saccharibacteria	0.0056136
+838	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Candidatus_Saccharibacteria	0.014619126
+839	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Candidatus_Saccharibacteria	0.0054585
+840	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Candidatus_Saccharibacteria	0.001600469
+845	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Candidatus_Saccharibacteria	0.004919499
+846	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Candidatus_Saccharibacteria	0.002706582
+847	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Candidatus_Saccharibacteria	0.007513879
+848	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Candidatus_Saccharibacteria	0.003567182
+857	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Candidatus_Saccharibacteria	0.004760533
+858	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Candidatus_Saccharibacteria	0.002977647
+859	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Candidatus_Saccharibacteria	0.002513181
+860	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Candidatus_Saccharibacteria	0.002507337
+869	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Candidatus_Saccharibacteria	0.002135896
+870	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Candidatus_Saccharibacteria	0.002538139
+871	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Candidatus_Saccharibacteria	0.002712658
+872	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Candidatus_Saccharibacteria	0.002058548
+873	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Candidatus_Saccharibacteria	0.00097161
+874	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Candidatus_Saccharibacteria	0.002616473
+875	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Candidatus_Saccharibacteria	0.000298719
+876	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Candidatus_Saccharibacteria	0.001631496
+881	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Candidatus_Saccharibacteria	0.000809168
+882	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Candidatus_Saccharibacteria	0.002638451
+883	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Candidatus_Saccharibacteria	0.001265401
+884	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Candidatus_Saccharibacteria	0.002173623
+893	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Candidatus_Saccharibacteria	0.000849922
+894	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Candidatus_Saccharibacteria	0.00168883
+895	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Candidatus_Saccharibacteria	0.001069876
+896	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Candidatus_Saccharibacteria	0.001250798
+897	G01	Soil	Soil	GE	G0	Soil	0	Armatimonadetes	0.018398998
+898	G02	Soil	Soil	GE	G0	Soil	0	Armatimonadetes	0.014451736
+899	G03	Soil	Soil	GE	G0	Soil	0	Armatimonadetes	0.017677194
+900	G04	Soil	Soil	GE	G0	Soil	0	Armatimonadetes	0.016234793
+901	G151	Soil	Soil	GE	G15	Soil	15	Armatimonadetes	0.010105544
+902	G152	Soil	Soil	GE	G15	Soil	15	Armatimonadetes	0.008395887
+903	G153	Soil	Soil	GE	G15	Soil	15	Armatimonadetes	0.010725509
+904	G154	Soil	Soil	GE	G15	Soil	15	Armatimonadetes	0.00655227
+905	G281	Soil	Soil	GE	G28	Soil	28	Armatimonadetes	0.0126444
+906	G282	Soil	Soil	GE	G28	Soil	28	Armatimonadetes	0.015802988
+907	G283	Soil	Soil	GE	G28	Soil	28	Armatimonadetes	0.010259991
+908	G284	Soil	Soil	GE	G28	Soil	28	Armatimonadetes	0.014717818
+909	G361	Soil	Soil	GE	G36	Soil	36	Armatimonadetes	0.005419653
+910	G362	Soil	Soil	GE	G36	Soil	36	Armatimonadetes	0.006850708
+911	G363	Soil	Soil	GE	G36	Soil	36	Armatimonadetes	0.006013427
+912	G364	Soil	Soil	GE	G36	Soil	36	Armatimonadetes	0.00465845
+913	G51	Soil	Soil	GE	G5	Soil	5	Armatimonadetes	0.007292118
+914	G52	Soil	Soil	GE	G5	Soil	5	Armatimonadetes	0.010736113
+915	G53	Soil	Soil	GE	G5	Soil	5	Armatimonadetes	0.010398567
+916	G54	Soil	Soil	GE	G5	Soil	5	Armatimonadetes	0.006154342
+925	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Armatimonadetes	0.004430146
+926	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Armatimonadetes	0.003414139
+927	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Armatimonadetes	0.00381786
+928	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Armatimonadetes	0.003038189
+929	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Armatimonadetes	0.004461066
+930	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Armatimonadetes	0.00321552
+931	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Armatimonadetes	0.00238673
+932	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Armatimonadetes	0.004593101
+937	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Armatimonadetes	0.00185993
+938	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Armatimonadetes	0.001552317
+939	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Armatimonadetes	0.001539759
+940	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Armatimonadetes	0.002332637
+949	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Armatimonadetes	0.004189353
+950	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Armatimonadetes	0.00391598
+951	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Armatimonadetes	0.00343556
+952	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Armatimonadetes	0.003949697
+961	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Armatimonadetes	0.000740352
+962	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Armatimonadetes	0.002684433
+963	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Armatimonadetes	0.003254654
+964	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Armatimonadetes	0.001075562
+965	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Armatimonadetes	0.002814015
+966	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Armatimonadetes	0.003719498
+967	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Armatimonadetes	0.002065748
+968	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Armatimonadetes	0.002013924
+973	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Armatimonadetes	0.001897327
+974	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Armatimonadetes	0.001230265
+975	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Armatimonadetes	0.001399346
+976	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Armatimonadetes	0.001908028
+985	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Armatimonadetes	0.002620351
+986	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Armatimonadetes	0.003167999
+987	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Armatimonadetes	0.004821482
+988	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Armatimonadetes	0.003091432
+997	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Armatimonadetes	0.003030303
+998	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Armatimonadetes	0.00349996
+999	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Armatimonadetes	0.002646171
+1000	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Armatimonadetes	0.003609143
+1001	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Armatimonadetes	0.003287503
+1002	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Armatimonadetes	0.003577626
+1003	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Armatimonadetes	0.000423186
+1004	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Armatimonadetes	0.003918265
+1009	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Armatimonadetes	0.004177951
+1010	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Armatimonadetes	0.002409606
+1011	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Armatimonadetes	0.001078921
+1012	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Armatimonadetes	0.00240032
+1021	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Armatimonadetes	0.002456807
+1022	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Armatimonadetes	0.003364362
+1023	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Armatimonadetes	0.003945169
+1024	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Armatimonadetes	0.004258037
+1025	G01	Soil	Soil	GE	G0	Soil	0	candidate_division_WPS.1	0.017903588
+1026	G02	Soil	Soil	GE	G0	Soil	0	candidate_division_WPS.1	0.00715067
+1027	G03	Soil	Soil	GE	G0	Soil	0	candidate_division_WPS.1	0.014454203
+1028	G04	Soil	Soil	GE	G0	Soil	0	candidate_division_WPS.1	0.012619424
+1029	G151	Soil	Soil	GE	G15	Soil	15	candidate_division_WPS.1	0.014553071
+1030	G152	Soil	Soil	GE	G15	Soil	15	candidate_division_WPS.1	0.014177324
+1031	G153	Soil	Soil	GE	G15	Soil	15	candidate_division_WPS.1	0.014851756
+1032	G154	Soil	Soil	GE	G15	Soil	15	candidate_division_WPS.1	0.016501517
+1033	G281	Soil	Soil	GE	G28	Soil	28	candidate_division_WPS.1	0.00823388
+1034	G282	Soil	Soil	GE	G28	Soil	28	candidate_division_WPS.1	0.00717076
+1035	G283	Soil	Soil	GE	G28	Soil	28	candidate_division_WPS.1	0.018116137
+1036	G284	Soil	Soil	GE	G28	Soil	28	candidate_division_WPS.1	0.008373465
+1037	G361	Soil	Soil	GE	G36	Soil	36	candidate_division_WPS.1	0.001667586
+1038	G362	Soil	Soil	GE	G36	Soil	36	candidate_division_WPS.1	0.015925672
+1039	G363	Soil	Soil	GE	G36	Soil	36	candidate_division_WPS.1	0.01750484
+1040	G364	Soil	Soil	GE	G36	Soil	36	candidate_division_WPS.1	0.012898172
+1041	G51	Soil	Soil	GE	G5	Soil	5	candidate_division_WPS.1	0.019001269
+1042	G52	Soil	Soil	GE	G5	Soil	5	candidate_division_WPS.1	0.004597328
+1043	G53	Soil	Soil	GE	G5	Soil	5	candidate_division_WPS.1	0.005360919
+1044	G54	Soil	Soil	GE	G5	Soil	5	candidate_division_WPS.1	0.019108023
+1053	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	candidate_division_WPS.1	0.014753969
+1054	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	candidate_division_WPS.1	0.010242417
+1055	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	candidate_division_WPS.1	0.012025594
+1056	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	candidate_division_WPS.1	0.009642947
+1057	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	candidate_division_WPS.1	0.007853613
+1058	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	candidate_division_WPS.1	0.006364328
+1059	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	candidate_division_WPS.1	0.004293448
+1060	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	candidate_division_WPS.1	0.014472817
+1065	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	candidate_division_WPS.1	0.007908047
+1066	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	candidate_division_WPS.1	0.006289561
+1067	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	candidate_division_WPS.1	0.004525553
+1068	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	candidate_division_WPS.1	0.005649565
+1077	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	candidate_division_WPS.1	0.013598879
+1078	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	candidate_division_WPS.1	0.014172117
+1079	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	candidate_division_WPS.1	0.010837269
+1080	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	candidate_division_WPS.1	0.010343188
+1089	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	candidate_division_WPS.1	0.000524977
+1090	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	candidate_division_WPS.1	0.001543897
+1091	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	candidate_division_WPS.1	0.001746764
+1092	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	candidate_division_WPS.1	0.001651215
+1093	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	candidate_division_WPS.1	0.002972755
+1094	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	candidate_division_WPS.1	0.002874777
+1095	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	candidate_division_WPS.1	0.002585605
+1096	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	candidate_division_WPS.1	0.001480434
+1101	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	candidate_division_WPS.1	0.001666938
+1102	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	candidate_division_WPS.1	0.001544665
+1103	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	candidate_division_WPS.1	0.001521028
+1104	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	candidate_division_WPS.1	0.001603849
+1113	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	candidate_division_WPS.1	0.002304811
+1114	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	candidate_division_WPS.1	0.004405286
+1115	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	candidate_division_WPS.1	0.004083918
+1116	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	candidate_division_WPS.1	0.004216885
+1125	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	candidate_division_WPS.1	0.007448939
+1126	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	candidate_division_WPS.1	0.007534265
+1127	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	candidate_division_WPS.1	0.005624776
+1128	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	candidate_division_WPS.1	0.006897474
+1129	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	candidate_division_WPS.1	0.007653095
+1130	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	candidate_division_WPS.1	0.006688026
+1131	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	candidate_division_WPS.1	0.000410739
+1132	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	candidate_division_WPS.1	0.007943513
+1137	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	candidate_division_WPS.1	0.006242156
+1138	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	candidate_division_WPS.1	0.007323049
+1139	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	candidate_division_WPS.1	0.002703963
+1140	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	candidate_division_WPS.1	0.006440859
+1149	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	candidate_division_WPS.1	0.004435532
+1150	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	candidate_division_WPS.1	0.006117021
+1151	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	candidate_division_WPS.1	0.004480107
+1152	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	candidate_division_WPS.1	0.005828188
+1153	G01	Soil	Soil	GE	G0	Soil	0	Verrucomicrobia	0.028981518
+1154	G02	Soil	Soil	GE	G0	Soil	0	Verrucomicrobia	0.014602133
+1155	G03	Soil	Soil	GE	G0	Soil	0	Verrucomicrobia	0.022476496
+1156	G04	Soil	Soil	GE	G0	Soil	0	Verrucomicrobia	0.017678191
+1157	G151	Soil	Soil	GE	G15	Soil	15	Verrucomicrobia	0.024019368
+1158	G152	Soil	Soil	GE	G15	Soil	15	Verrucomicrobia	0.023853483
+1159	G153	Soil	Soil	GE	G15	Soil	15	Verrucomicrobia	0.021997541
+1160	G154	Soil	Soil	GE	G15	Soil	15	Verrucomicrobia	0.028075405
+1161	G281	Soil	Soil	GE	G28	Soil	28	Verrucomicrobia	0.017887866
+1162	G282	Soil	Soil	GE	G28	Soil	28	Verrucomicrobia	0.021334717
+1163	G283	Soil	Soil	GE	G28	Soil	28	Verrucomicrobia	0.028389557
+1164	G284	Soil	Soil	GE	G28	Soil	28	Verrucomicrobia	0.020466966
+1165	G361	Soil	Soil	GE	G36	Soil	36	Verrucomicrobia	0.005379308
+1166	G362	Soil	Soil	GE	G36	Soil	36	Verrucomicrobia	0.039540914
+1167	G363	Soil	Soil	GE	G36	Soil	36	Verrucomicrobia	0.041434985
+1168	G364	Soil	Soil	GE	G36	Soil	36	Verrucomicrobia	0.023278262
+1169	G51	Soil	Soil	GE	G5	Soil	5	Verrucomicrobia	0.025522414
+1170	G52	Soil	Soil	GE	G5	Soil	5	Verrucomicrobia	0.011898967
+1171	G53	Soil	Soil	GE	G5	Soil	5	Verrucomicrobia	0.013725569
+1172	G54	Soil	Soil	GE	G5	Soil	5	Verrucomicrobia	0.025383303
+1181	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Verrucomicrobia	0.01286852
+1182	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Verrucomicrobia	0.014579296
+1183	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Verrucomicrobia	0.014606308
+1184	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Verrucomicrobia	0.013803944
+1185	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Verrucomicrobia	0.012528383
+1186	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Verrucomicrobia	0.009753299
+1187	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Verrucomicrobia	0.008000213
+1188	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Verrucomicrobia	0.012881148
+1193	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Verrucomicrobia	0.019495812
+1194	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Verrucomicrobia	0.016941668
+1195	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Verrucomicrobia	0.010416806
+1196	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Verrucomicrobia	0.019281332
+1205	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Verrucomicrobia	0.013863192
+1206	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Verrucomicrobia	0.016090147
+1207	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Verrucomicrobia	0.012455563
+1208	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Verrucomicrobia	0.013923014
+1217	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Verrucomicrobia	0.002261438
+1218	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Verrucomicrobia	0.007524758
+1219	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Verrucomicrobia	0.011316642
+1220	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Verrucomicrobia	0.007771314
+1221	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Verrucomicrobia	0.011804433
+1222	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Verrucomicrobia	0.008188346
+1223	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Verrucomicrobia	0.005225933
+1224	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Verrucomicrobia	0.004347942
+1229	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Verrucomicrobia	0.008958096
+1230	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Verrucomicrobia	0.007340578
+1231	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Verrucomicrobia	0.006966309
+1232	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Verrucomicrobia	0.010369715
+1241	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Verrucomicrobia	0.007449479
+1242	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Verrucomicrobia	0.009639963
+1243	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Verrucomicrobia	0.011691753
+1244	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Verrucomicrobia	0.00971593
+1253	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Verrucomicrobia	0.009651582
+1254	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Verrucomicrobia	0.010419728
+1255	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Verrucomicrobia	0.00840392
+1256	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Verrucomicrobia	0.011281914
+1257	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Verrucomicrobia	0.007187255
+1258	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Verrucomicrobia	0.007916166
+1259	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Verrucomicrobia	0.007194155
+1260	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Verrucomicrobia	0.007890021
+1265	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Verrucomicrobia	0.017388863
+1266	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Verrucomicrobia	0.019573002
+1267	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Verrucomicrobia	0.008125208
+1268	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Verrucomicrobia	0.014455261
+1277	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Verrucomicrobia	0.006706418
+1278	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Verrucomicrobia	0.007832447
+1279	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Verrucomicrobia	0.00998997
+1280	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Verrucomicrobia	0.008808814
+1281	G01	Soil	Soil	GE	G0	Soil	0	Gemmatimonadetes	0.028775097
+1282	G02	Soil	Soil	GE	G0	Soil	0	Gemmatimonadetes	0.024993164
+1283	G03	Soil	Soil	GE	G0	Soil	0	Gemmatimonadetes	0.028232844
+1284	G04	Soil	Soil	GE	G0	Soil	0	Gemmatimonadetes	0.030297615
+1285	G151	Soil	Soil	GE	G15	Soil	15	Gemmatimonadetes	0.037402753
+1286	G152	Soil	Soil	GE	G15	Soil	15	Gemmatimonadetes	0.040820452
+1287	G153	Soil	Soil	GE	G15	Soil	15	Gemmatimonadetes	0.022912966
+1288	G154	Soil	Soil	GE	G15	Soil	15	Gemmatimonadetes	0.050605548
+1289	G281	Soil	Soil	GE	G28	Soil	28	Gemmatimonadetes	0.032812628
+1290	G282	Soil	Soil	GE	G28	Soil	28	Gemmatimonadetes	0.037465512
+1291	G283	Soil	Soil	GE	G28	Soil	28	Gemmatimonadetes	0.082348517
+1292	G284	Soil	Soil	GE	G28	Soil	28	Gemmatimonadetes	0.031004816
+1293	G361	Soil	Soil	GE	G36	Soil	36	Gemmatimonadetes	0.012130341
+1294	G362	Soil	Soil	GE	G36	Soil	36	Gemmatimonadetes	0.043531864
+1295	G363	Soil	Soil	GE	G36	Soil	36	Gemmatimonadetes	0.038304708
+1296	G364	Soil	Soil	GE	G36	Soil	36	Gemmatimonadetes	0.023627995
+1297	G51	Soil	Soil	GE	G5	Soil	5	Gemmatimonadetes	0.059204292
+1298	G52	Soil	Soil	GE	G5	Soil	5	Gemmatimonadetes	0.013589161
+1299	G53	Soil	Soil	GE	G5	Soil	5	Gemmatimonadetes	0.014681914
+1300	G54	Soil	Soil	GE	G5	Soil	5	Gemmatimonadetes	0.040151037
+1309	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Gemmatimonadetes	0.01111492
+1310	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Gemmatimonadetes	0.015910679
+1311	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Gemmatimonadetes	0.009790749
+1312	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Gemmatimonadetes	0.012958535
+1313	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Gemmatimonadetes	0.013142781
+1314	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Gemmatimonadetes	0.010473789
+1315	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Gemmatimonadetes	0.010360276
+1316	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Gemmatimonadetes	0.016985379
+1321	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Gemmatimonadetes	0.009018653
+1322	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Gemmatimonadetes	0.00602192
+1323	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Gemmatimonadetes	0.004686224
+1324	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Gemmatimonadetes	0.008305805
+1333	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Gemmatimonadetes	0.00906592
+1334	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Gemmatimonadetes	0.011188513
+1335	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Gemmatimonadetes	0.009311827
+1336	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Gemmatimonadetes	0.011875512
+1345	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Gemmatimonadetes	0.001251868
+1346	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Gemmatimonadetes	0.005507956
+1347	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Gemmatimonadetes	0.007121422
+1348	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Gemmatimonadetes	0.007544083
+1349	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Gemmatimonadetes	0.01584507
+1350	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Gemmatimonadetes	0.012929684
+1351	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Gemmatimonadetes	0.005581624
+1352	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Gemmatimonadetes	0.003561045
+1357	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Gemmatimonadetes	0.003455846
+1358	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Gemmatimonadetes	0.003540428
+1359	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Gemmatimonadetes	0.002920374
+1360	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Gemmatimonadetes	0.003027957
+1369	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Gemmatimonadetes	0.011825877
+1370	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Gemmatimonadetes	0.014697884
+1371	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Gemmatimonadetes	0.014204933
+1372	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Gemmatimonadetes	0.013847337
+1381	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Gemmatimonadetes	0.0103057
+1382	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Gemmatimonadetes	0.013959764
+1383	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Gemmatimonadetes	0.006914618
+1384	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Gemmatimonadetes	0.010546718
+1385	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Gemmatimonadetes	0.012071926
+1386	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Gemmatimonadetes	0.013015619
+1387	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Gemmatimonadetes	0.000858818
+1388	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Gemmatimonadetes	0.015071278
+1393	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Gemmatimonadetes	0.014251272
+1394	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Gemmatimonadetes	0.007780739
+1395	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Gemmatimonadetes	0.003822844
+1396	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Gemmatimonadetes	0.009307908
+1405	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Gemmatimonadetes	0.007131379
+1406	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Gemmatimonadetes	0.011210106
+1407	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Gemmatimonadetes	0.010591775
+1408	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Gemmatimonadetes	0.0150495
+1409	G01	Soil	Soil	GE	G0	Soil	0	Thaumarchaeota	0.010706373
+1410	G02	Soil	Soil	GE	G0	Soil	0	Thaumarchaeota	0.024651354
+1411	G03	Soil	Soil	GE	G0	Soil	0	Thaumarchaeota	0.016452739
+1412	G04	Soil	Soil	GE	G0	Soil	0	Thaumarchaeota	0.020235068
+1413	G151	Soil	Soil	GE	G15	Soil	15	Thaumarchaeota	0.011016811
+1414	G152	Soil	Soil	GE	G15	Soil	15	Thaumarchaeota	0.006576554
+1415	G153	Soil	Soil	GE	G15	Soil	15	Thaumarchaeota	0.019005329
+1416	G154	Soil	Soil	GE	G15	Soil	15	Thaumarchaeota	0.007559279
+1417	G281	Soil	Soil	GE	G28	Soil	28	Thaumarchaeota	0.010391348
+1418	G282	Soil	Soil	GE	G28	Soil	28	Thaumarchaeota	0.005094654
+1419	G283	Soil	Soil	GE	G28	Soil	28	Thaumarchaeota	0.007547271
+1420	G284	Soil	Soil	GE	G28	Soil	28	Thaumarchaeota	0.015935285
+1421	G361	Soil	Soil	GE	G36	Soil	36	Thaumarchaeota	0.200675103
+1422	G362	Soil	Soil	GE	G36	Soil	36	Thaumarchaeota	0.006647347
+1423	G363	Soil	Soil	GE	G36	Soil	36	Thaumarchaeota	0.019674067
+1424	G364	Soil	Soil	GE	G36	Soil	36	Thaumarchaeota	0.039282067
+1425	G51	Soil	Soil	GE	G5	Soil	5	Thaumarchaeota	0.007147561
+1426	G52	Soil	Soil	GE	G5	Soil	5	Thaumarchaeota	0.01828114
+1427	G53	Soil	Soil	GE	G5	Soil	5	Thaumarchaeota	0.013361889
+1428	G54	Soil	Soil	GE	G5	Soil	5	Thaumarchaeota	0.01875865
+1437	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Thaumarchaeota	0.017720584
+1438	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Thaumarchaeota	0.019179816
+1439	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Thaumarchaeota	0.01140037
+1440	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Thaumarchaeota	0.025745347
+1441	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Thaumarchaeota	0.005569654
+1442	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Thaumarchaeota	0.0046565
+1443	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Thaumarchaeota	0.003946772
+1444	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Thaumarchaeota	0.018668001
+1449	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Thaumarchaeota	0.030280729
+1450	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Thaumarchaeota	0.04065465
+1451	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Thaumarchaeota	0.004110488
+1452	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Thaumarchaeota	0.030189442
+1461	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Thaumarchaeota	0.017973252
+1462	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Thaumarchaeota	0.022763296
+1463	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Thaumarchaeota	0.020772537
+1464	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Thaumarchaeota	0.018665293
+1473	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Thaumarchaeota	0.000955727
+1474	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Thaumarchaeota	0.006092133
+1475	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Thaumarchaeota	0.001612398
+1476	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Thaumarchaeota	0.000893777
+1477	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Thaumarchaeota	0.004834334
+1478	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Thaumarchaeota	0.004169108
+1479	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Thaumarchaeota	0.00452823
+1480	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Thaumarchaeota	0.00682867
+1485	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Thaumarchaeota	0.006681303
+1486	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Thaumarchaeota	0.00798305
+1487	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Thaumarchaeota	0.002631379
+1488	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Thaumarchaeota	0.004203191
+1497	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Thaumarchaeota	0.005487646
+1498	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Thaumarchaeota	0.009843911
+1499	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Thaumarchaeota	0.008837108
+1500	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Thaumarchaeota	0.008077613
+1509	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Thaumarchaeota	0.002603124
+1510	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Thaumarchaeota	0.013225039
+1511	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Thaumarchaeota	0.00795181
+1512	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Thaumarchaeota	0.01068039
+1513	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Thaumarchaeota	0.017036455
+1514	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Thaumarchaeota	0.008436791
+1515	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Thaumarchaeota	0.001045517
+1516	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Thaumarchaeota	0.011500709
+1521	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Thaumarchaeota	0.006506374
+1522	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Thaumarchaeota	0.014498021
+1523	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Thaumarchaeota	0.012174492
+1524	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Thaumarchaeota	0.017615682
+1533	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Thaumarchaeota	0.01827333
+1534	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Thaumarchaeota	0.015412234
+1535	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Thaumarchaeota	0.017398863
+1536	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Thaumarchaeota	0.018256334
+1537	G01	Soil	Soil	GE	G0	Soil	0	Planctomycetes	0.012110036
+1538	G02	Soil	Soil	GE	G0	Soil	0	Planctomycetes	0.010281652
+1539	G03	Soil	Soil	GE	G0	Soil	0	Planctomycetes	0.009711197
+1540	G04	Soil	Soil	GE	G0	Soil	0	Planctomycetes	0.01070864
+1541	G151	Soil	Soil	GE	G15	Soil	15	Planctomycetes	0.01426745
+1542	G152	Soil	Soil	GE	G15	Soil	15	Planctomycetes	0.013436114
+1543	G153	Soil	Soil	GE	G15	Soil	15	Planctomycetes	0.014031972
+1544	G154	Soil	Soil	GE	G15	Soil	15	Planctomycetes	0.015454228
+1545	G281	Soil	Soil	GE	G28	Soil	28	Planctomycetes	0.011674905
+1546	G282	Soil	Soil	GE	G28	Soil	28	Planctomycetes	0.010544431
+1547	G283	Soil	Soil	GE	G28	Soil	28	Planctomycetes	0.014302213
+1548	G284	Soil	Soil	GE	G28	Soil	28	Planctomycetes	0.011227747
+1549	G361	Soil	Soil	GE	G36	Soil	36	Planctomycetes	0.004222757
+1550	G362	Soil	Soil	GE	G36	Soil	36	Planctomycetes	0.016052772
+1551	G363	Soil	Soil	GE	G36	Soil	36	Planctomycetes	0.020690034
+1552	G364	Soil	Soil	GE	G36	Soil	36	Planctomycetes	0.017976302
+1553	G51	Soil	Soil	GE	G5	Soil	5	Planctomycetes	0.012897734
+1554	G52	Soil	Soil	GE	G5	Soil	5	Planctomycetes	0.006774298
+1555	G53	Soil	Soil	GE	G5	Soil	5	Planctomycetes	0.007340957
+1556	G54	Soil	Soil	GE	G5	Soil	5	Planctomycetes	0.017159596
+1565	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Planctomycetes	0.028255366
+1566	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Planctomycetes	0.025691726
+1567	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Planctomycetes	0.027190614
+1568	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Planctomycetes	0.026102004
+1569	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Planctomycetes	0.019740884
+1570	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Planctomycetes	0.017345128
+1571	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Planctomycetes	0.01413371
+1572	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Planctomycetes	0.024761818
+1577	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Planctomycetes	0.027149624
+1578	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Planctomycetes	0.02919962
+1579	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Planctomycetes	0.013764109
+1580	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Planctomycetes	0.028948965
+1589	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Planctomycetes	0.023153777
+1590	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Planctomycetes	0.0257469
+1591	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Planctomycetes	0.023876479
+1592	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Planctomycetes	0.027119495
+1601	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Planctomycetes	0.005693979
+1602	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Planctomycetes	0.036914432
+1603	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Planctomycetes	0.033472179
+1604	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Planctomycetes	0.004938496
+1605	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Planctomycetes	0.032368391
+1606	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Planctomycetes	0.022916468
+1607	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Planctomycetes	0.021273103
+1608	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Planctomycetes	0.028941823
+1613	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Planctomycetes	0.034057028
+1614	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Planctomycetes	0.03466612
+1615	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Planctomycetes	0.038907902
+1616	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Planctomycetes	0.029049028
+1625	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Planctomycetes	0.014226722
+1626	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Planctomycetes	0.025167238
+1627	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Planctomycetes	0.021321059
+1628	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Planctomycetes	0.020628544
+1637	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Planctomycetes	0.013736484
+1638	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Planctomycetes	0.02556841
+1639	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Planctomycetes	0.024706461
+1640	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Planctomycetes	0.023954017
+1641	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Planctomycetes	0.01731596
+1642	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Planctomycetes	0.018568949
+1643	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Planctomycetes	0.002389754
+1644	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Planctomycetes	0.022907807
+1649	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Planctomycetes	0.020774159
+1650	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Planctomycetes	0.031796032
+1651	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Planctomycetes	0.034032634
+1652	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Planctomycetes	0.02689692
+1661	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Planctomycetes	0.017529648
+1662	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Planctomycetes	0.016449468
+1663	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Planctomycetes	0.017960548
+1664	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Planctomycetes	0.01724505
+1665	G01	Soil	Soil	GE	G0	Soil	0	Cyanobacteria	0.001417425
+1666	G02	Soil	Soil	GE	G0	Soil	0	Cyanobacteria	0.000916051
+1667	G03	Soil	Soil	GE	G0	Soil	0	Cyanobacteria	0.000957046
+1668	G04	Soil	Soil	GE	G0	Soil	0	Cyanobacteria	0.003120489
+1669	G151	Soil	Soil	GE	G15	Soil	15	Cyanobacteria	0.000299222
+1670	G152	Soil	Soil	GE	G15	Soil	15	Cyanobacteria	6.74E-05
+1671	G153	Soil	Soil	GE	G15	Soil	15	Cyanobacteria	0.002391037
+1672	G154	Soil	Soil	GE	G15	Soil	15	Cyanobacteria	0.000107414
+1673	G281	Soil	Soil	GE	G28	Soil	28	Cyanobacteria	0.000204823
+1674	G282	Soil	Soil	GE	G28	Soil	28	Cyanobacteria	0.000232196
+1675	G283	Soil	Soil	GE	G28	Soil	28	Cyanobacteria	0.000134293
+1676	G284	Soil	Soil	GE	G28	Soil	28	Cyanobacteria	0.00078459
+1677	G361	Soil	Soil	GE	G36	Soil	36	Cyanobacteria	6.72E-05
+1678	G362	Soil	Soil	GE	G36	Soil	36	Cyanobacteria	1.27E-05
+1679	G363	Soil	Soil	GE	G36	Soil	36	Cyanobacteria	0.000164751
+1680	G364	Soil	Soil	GE	G36	Soil	36	Cyanobacteria	0.000321755
+1681	G51	Soil	Soil	GE	G5	Soil	5	Cyanobacteria	0.000144557
+1682	G52	Soil	Soil	GE	G5	Soil	5	Cyanobacteria	0.000500297
+1683	G53	Soil	Soil	GE	G5	Soil	5	Cyanobacteria	0.000404089
+1684	G54	Soil	Soil	GE	G5	Soil	5	Cyanobacteria	0.001303431
+1693	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Cyanobacteria	0.000461474
+1694	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Cyanobacteria	0.000619554
+1695	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Cyanobacteria	0.00070504
+1696	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Cyanobacteria	0.002945722
+1697	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Cyanobacteria	0.001282223
+1698	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Cyanobacteria	0.00105405
+1699	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Cyanobacteria	0.000546681
+1700	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Cyanobacteria	0.001364288
+1705	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Cyanobacteria	0.000722563
+1706	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Cyanobacteria	0.000281023
+1707	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Cyanobacteria	0.000468622
+1708	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Cyanobacteria	0.001159577
+1717	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Cyanobacteria	0.000488978
+1718	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Cyanobacteria	0.000173156
+1719	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Cyanobacteria	0.000596912
+1720	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Cyanobacteria	0.000303823
+1729	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Cyanobacteria	0.017337695
+1730	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Cyanobacteria	0.106987871
+1731	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Cyanobacteria	0.084382138
+1732	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Cyanobacteria	0.02604072
+1733	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Cyanobacteria	0.16127915
+1734	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Cyanobacteria	0.165878714
+1735	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Cyanobacteria	0.118294868
+1736	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Cyanobacteria	0.189922377
+1741	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Cyanobacteria	0.027741638
+1742	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Cyanobacteria	0.022568519
+1743	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Cyanobacteria	0.078211271
+1744	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Cyanobacteria	0.165956917
+1753	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Cyanobacteria	0.059184261
+1754	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Cyanobacteria	0.026241366
+1755	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Cyanobacteria	0.113953615
+1756	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Cyanobacteria	0.027338519
+1765	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Cyanobacteria	0.000547323
+1766	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Cyanobacteria	0.001135483
+1767	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Cyanobacteria	0.001542492
+1768	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Cyanobacteria	0.000654993
+1769	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Cyanobacteria	0.000851823
+1770	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Cyanobacteria	0.00144173
+1771	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Cyanobacteria	0.002688473
+1772	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Cyanobacteria	0.002059429
+1777	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Cyanobacteria	0.000528436
+1778	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Cyanobacteria	0.000349999
+1779	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Cyanobacteria	0.00038628
+1780	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Cyanobacteria	0.000386718
+1789	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Cyanobacteria	0.000664002
+1790	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Cyanobacteria	0.000704787
+1791	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Cyanobacteria	0.000494818
+1792	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Cyanobacteria	0.000252821
+1793	G01	Soil	Soil	GE	G0	Soil	0	Firmicutes	0.008655924
+1794	G02	Soil	Soil	GE	G0	Soil	0	Firmicutes	0.020139459
+1795	G03	Soil	Soil	GE	G0	Soil	0	Firmicutes	0.00888082
+1796	G04	Soil	Soil	GE	G0	Soil	0	Firmicutes	0.013183037
+1797	G151	Soil	Soil	GE	G15	Soil	15	Firmicutes	0.017436483
+1798	G152	Soil	Soil	GE	G15	Soil	15	Firmicutes	0.038933736
+1799	G153	Soil	Soil	GE	G15	Soil	15	Firmicutes	0.019538188
+1800	G154	Soil	Soil	GE	G15	Soil	15	Firmicutes	0.018569242
+1801	G281	Soil	Soil	GE	G28	Soil	28	Firmicutes	0.011538357
+1802	G282	Soil	Soil	GE	G28	Soil	28	Firmicutes	0.009151255
+1803	G283	Soil	Soil	GE	G28	Soil	28	Firmicutes	0.005062849
+1804	G284	Soil	Soil	GE	G28	Soil	28	Firmicutes	0.010497267
+1805	G361	Soil	Soil	GE	G36	Soil	36	Firmicutes	0.064202047
+1806	G362	Soil	Soil	GE	G36	Soil	36	Firmicutes	0.019853072
+1807	G363	Soil	Soil	GE	G36	Soil	36	Firmicutes	0.009377102
+1808	G364	Soil	Soil	GE	G36	Soil	36	Firmicutes	0.031434047
+1809	G51	Soil	Soil	GE	G5	Soil	5	Firmicutes	0.009701409
+1810	G52	Soil	Soil	GE	G5	Soil	5	Firmicutes	0.024920223
+1811	G53	Soil	Soil	GE	G5	Soil	5	Firmicutes	0.022144098
+1812	G54	Soil	Soil	GE	G5	Soil	5	Firmicutes	0.016366788
+1821	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Firmicutes	0.012697115
+1822	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Firmicutes	0.014091562
+1823	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Firmicutes	0.056522954
+1824	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Firmicutes	0.017700752
+1825	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Firmicutes	0.005663149
+1826	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Firmicutes	0.005523756
+1827	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Firmicutes	0.006640177
+1828	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Firmicutes	0.016451033
+1833	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Firmicutes	0.021944496
+1834	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Firmicutes	0.033160705
+1835	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Firmicutes	0.426727543
+1836	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Firmicutes	0.046585317
+1845	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Firmicutes	0.033065497
+1846	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Firmicutes	0.017275597
+1847	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Firmicutes	0.020188889
+1848	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Firmicutes	0.014477821
+1857	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Firmicutes	0.74164412
+1858	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Firmicutes	0.013672527
+1859	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Firmicutes	0.026544841
+1860	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Firmicutes	0.409789129
+1861	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Firmicutes	0.006118679
+1862	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Firmicutes	0.005844926
+1863	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Firmicutes	0.026553757
+1864	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Firmicutes	0.009709515
+1869	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Firmicutes	0.011695669
+1870	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Firmicutes	0.016485544
+1871	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Firmicutes	0.007726823
+1872	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Firmicutes	0.004991289
+1881	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Firmicutes	0.007819895
+1882	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Firmicutes	0.010768478
+1883	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Firmicutes	0.005777584
+1884	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Firmicutes	0.01463088
+1893	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Firmicutes	0.384915232
+1894	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Firmicutes	0.023671485
+1895	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Firmicutes	0.031993405
+1896	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Firmicutes	0.019609678
+1897	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Firmicutes	0.015372739
+1898	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Firmicutes	0.019089574
+1899	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Firmicutes	0.330856453
+1900	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Firmicutes	0.016047501
+1905	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Firmicutes	0.012781558
+1906	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Firmicutes	0.014821097
+1907	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Firmicutes	0.013719614
+1908	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Firmicutes	0.011414855
+1917	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Firmicutes	0.027781836
+1918	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Firmicutes	0.026236702
+1919	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Firmicutes	0.055152123
+1920	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Firmicutes	0.023685331
+1921	G01	Soil	Soil	GE	G0	Soil	0	Bacteroidetes	0.038834684
+1922	G02	Soil	Soil	GE	G0	Soil	0	Bacteroidetes	0.019373804
+1923	G03	Soil	Soil	GE	G0	Soil	0	Bacteroidetes	0.034608456
+1924	G04	Soil	Soil	GE	G0	Soil	0	Bacteroidetes	0.033500584
+1925	G151	Soil	Soil	GE	G15	Soil	15	Bacteroidetes	0.052540667
+1926	G152	Soil	Soil	GE	G15	Soil	15	Bacteroidetes	0.048919855
+1927	G153	Soil	Soil	GE	G15	Soil	15	Bacteroidetes	0.064817598
+1928	G154	Soil	Soil	GE	G15	Soil	15	Bacteroidetes	0.053116357
+1929	G281	Soil	Soil	GE	G28	Soil	28	Bacteroidetes	0.023581943
+1930	G282	Soil	Soil	GE	G28	Soil	28	Bacteroidetes	0.02528205
+1931	G283	Soil	Soil	GE	G28	Soil	28	Bacteroidetes	0.038904706
+1932	G284	Soil	Soil	GE	G28	Soil	28	Bacteroidetes	0.027609437
+1933	G361	Soil	Soil	GE	G36	Soil	36	Bacteroidetes	0.173173389
+1934	G362	Soil	Soil	GE	G36	Soil	36	Bacteroidetes	0.059203335
+1935	G363	Soil	Soil	GE	G36	Soil	36	Bacteroidetes	0.06767165
+1936	G364	Soil	Soil	GE	G36	Soil	36	Bacteroidetes	0.047437852
+1937	G51	Soil	Soil	GE	G5	Soil	5	Bacteroidetes	0.03702276
+1938	G52	Soil	Soil	GE	G5	Soil	5	Bacteroidetes	0.022040132
+1939	G53	Soil	Soil	GE	G5	Soil	5	Bacteroidetes	0.022521248
+1940	G54	Soil	Soil	GE	G5	Soil	5	Bacteroidetes	0.034991064
+1949	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Bacteroidetes	0.025842519
+1950	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Bacteroidetes	0.023595787
+1951	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Bacteroidetes	0.043180397
+1952	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Bacteroidetes	0.023671453
+1953	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Bacteroidetes	0.039962602
+1954	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Bacteroidetes	0.030674192
+1955	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Bacteroidetes	0.013827035
+1956	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Bacteroidetes	0.035039451
+1961	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Bacteroidetes	0.024981936
+1962	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Bacteroidetes	0.014760395
+1963	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Bacteroidetes	0.022239479
+1964	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Bacteroidetes	0.024984831
+1973	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Bacteroidetes	0.020285986
+1974	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Bacteroidetes	0.020245881
+1975	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Bacteroidetes	0.027497745
+1976	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Bacteroidetes	0.019312568
+1985	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Bacteroidetes	0.013514787
+1986	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Bacteroidetes	0.026413152
+1987	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Bacteroidetes	0.068541825
+1988	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Bacteroidetes	0.153759922
+1989	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Bacteroidetes	0.039771415
+1990	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Bacteroidetes	0.042263308
+1991	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Bacteroidetes	0.05509118
+1992	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Bacteroidetes	0.015964683
+1997	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Bacteroidetes	0.018404077
+1998	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Bacteroidetes	0.028104709
+1999	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Bacteroidetes	0.027682714
+2000	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Bacteroidetes	0.023781213
+2009	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Bacteroidetes	0.02945494
+2010	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Bacteroidetes	0.032387013
+2011	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Bacteroidetes	0.050345562
+2012	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Bacteroidetes	0.028421233
+2021	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Bacteroidetes	0.046389
+2022	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Bacteroidetes	0.047182666
+2023	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Bacteroidetes	0.029932317
+2024	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Bacteroidetes	0.028819677
+2025	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Bacteroidetes	0.027883886
+2026	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Bacteroidetes	0.03504205
+2027	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Bacteroidetes	0.373560858
+2028	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Bacteroidetes	0.033432293
+2033	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Bacteroidetes	0.034942863
+2034	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Bacteroidetes	0.028484506
+2035	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Bacteroidetes	0.008071928
+2036	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Bacteroidetes	0.022389652
+2045	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Bacteroidetes	0.021128537
+2046	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Bacteroidetes	0.035385638
+2047	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Bacteroidetes	0.027428954
+2048	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Bacteroidetes	0.027517564
+2049	G01	Soil	Soil	GE	G0	Soil	0	Unassigned	0.133017738
+2050	G02	Soil	Soil	GE	G0	Soil	0	Unassigned	0.139294504
+2051	G03	Soil	Soil	GE	G0	Soil	0	Unassigned	0.114732872
+2052	G04	Soil	Soil	GE	G0	Soil	0	Unassigned	0.111540312
+2053	G151	Soil	Soil	GE	G15	Soil	15	Unassigned	0.11834231
+2054	G152	Soil	Soil	GE	G15	Soil	15	Unassigned	0.109591256
+2055	G153	Soil	Soil	GE	G15	Soil	15	Unassigned	0.116614292
+2056	G154	Soil	Soil	GE	G15	Soil	15	Unassigned	0.116920433
+2057	G281	Soil	Soil	GE	G28	Soil	28	Unassigned	0.133694732
+2058	G282	Soil	Soil	GE	G28	Soil	28	Unassigned	0.14674789
+2059	G283	Soil	Soil	GE	G28	Soil	28	Unassigned	0.123549635
+2060	G284	Soil	Soil	GE	G28	Soil	28	Unassigned	0.138831773
+2061	G361	Soil	Soil	GE	G36	Soil	36	Unassigned	0.069137562
+2062	G362	Soil	Soil	GE	G36	Soil	36	Unassigned	0.122550141
+2063	G363	Soil	Soil	GE	G36	Soil	36	Unassigned	0.121174678
+2064	G364	Soil	Soil	GE	G36	Soil	36	Unassigned	0.101072982
+2065	G51	Soil	Soil	GE	G5	Soil	5	Unassigned	0.112851154
+2066	G52	Soil	Soil	GE	G5	Soil	5	Unassigned	0.10663097
+2067	G53	Soil	Soil	GE	G5	Soil	5	Unassigned	0.112080926
+2068	G54	Soil	Soil	GE	G5	Soil	5	Unassigned	0.112054717
+2077	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Unassigned	0.086717473
+2078	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Unassigned	0.080212494
+2079	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Unassigned	0.065542149
+2080	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Unassigned	0.07945524
+2081	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Unassigned	0.074262054
+2082	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Unassigned	0.064950833
+2083	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Unassigned	0.067561802
+2084	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Unassigned	0.088110234
+2089	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Unassigned	0.084245457
+2090	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Unassigned	0.077214394
+2091	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Unassigned	0.035441241
+2092	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Unassigned	0.080995079
+2101	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Unassigned	0.085769414
+2102	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Unassigned	0.073750949
+2103	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Unassigned	0.099949594
+2104	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Unassigned	0.087078281
+2113	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Unassigned	0.03254856
+2114	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Unassigned	0.156434294
+2115	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Unassigned	0.082351712
+2116	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Unassigned	0.03472096
+2117	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Unassigned	0.159590741
+2118	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Unassigned	0.190239383
+2119	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Unassigned	0.121468733
+2120	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Unassigned	0.139027448
+2125	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Unassigned	0.108378056
+2126	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Unassigned	0.076686488
+2127	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Unassigned	0.073070195
+2128	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Unassigned	0.186793131
+2137	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Unassigned	0.117613972
+2138	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Unassigned	0.083972372
+2139	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Unassigned	0.129510749
+2140	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Unassigned	0.083141009
+2149	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Unassigned	0.051368309
+2150	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Unassigned	0.074314035
+2151	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Unassigned	0.065888329
+2152	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Unassigned	0.07773025
+2153	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Unassigned	0.07909973
+2154	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Unassigned	0.082191964
+2155	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Unassigned	0.009758162
+2156	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Unassigned	0.076947765
+2161	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Unassigned	0.08696083
+2162	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Unassigned	0.068424737
+2163	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Unassigned	0.045421245
+2164	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Unassigned	0.072916389
+2173	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Unassigned	0.072416037
+2174	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Unassigned	0.087260638
+2175	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Unassigned	0.069434972
+2176	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Unassigned	0.114221844
+2177	G01	Soil	Soil	GE	G0	Soil	0	Acidobacteria	0.16830198
+2178	G02	Soil	Soil	GE	G0	Soil	0	Acidobacteria	0.123352475
+2179	G03	Soil	Soil	GE	G0	Soil	0	Acidobacteria	0.13470416
+2180	G04	Soil	Soil	GE	G0	Soil	0	Acidobacteria	0.130895594
+2181	G151	Soil	Soil	GE	G15	Soil	15	Acidobacteria	0.168842827
+2182	G152	Soil	Soil	GE	G15	Soil	15	Acidobacteria	0.192808916
+2183	G153	Soil	Soil	GE	G15	Soil	15	Acidobacteria	0.119428884
+2184	G154	Soil	Soil	GE	G15	Soil	15	Acidobacteria	0.224267569
+2185	G281	Soil	Soil	GE	G28	Soil	28	Acidobacteria	0.142338258
+2186	G282	Soil	Soil	GE	G28	Soil	28	Acidobacteria	0.150695222
+2187	G283	Soil	Soil	GE	G28	Soil	28	Acidobacteria	0.222349055
+2188	G284	Soil	Soil	GE	G28	Soil	28	Acidobacteria	0.140509172
+2189	G361	Soil	Soil	GE	G36	Soil	36	Acidobacteria	0.095778588
+2190	G362	Soil	Soil	GE	G36	Soil	36	Acidobacteria	0.234385724
+2191	G363	Soil	Soil	GE	G36	Soil	36	Acidobacteria	0.17016077
+2192	G364	Soil	Soil	GE	G36	Soil	36	Acidobacteria	0.130296714
+2193	G51	Soil	Soil	GE	G5	Soil	5	Acidobacteria	0.217607093
+2194	G52	Soil	Soil	GE	G5	Soil	5	Acidobacteria	0.100924874
+2195	G53	Soil	Soil	GE	G5	Soil	5	Acidobacteria	0.108565348
+2196	G54	Soil	Soil	GE	G5	Soil	5	Acidobacteria	0.188742122
+2205	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Acidobacteria	0.119969938
+2206	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Acidobacteria	0.124807213
+2207	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Acidobacteria	0.100288667
+2208	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Acidobacteria	0.119387607
+2209	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Acidobacteria	0.119634032
+2210	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Acidobacteria	0.094290784
+2211	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Acidobacteria	0.092589136
+2212	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Acidobacteria	0.135507856
+2217	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Acidobacteria	0.108451307
+2218	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Acidobacteria	0.092536834
+2219	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Acidobacteria	0.064870727
+2220	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Acidobacteria	0.111535091
+2229	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Acidobacteria	0.109795422
+2230	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Acidobacteria	0.116253979
+2231	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Acidobacteria	0.112710246
+2232	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Acidobacteria	0.098834905
+2241	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Acidobacteria	0.01056684
+2242	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Acidobacteria	0.03708134
+2243	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Acidobacteria	0.042026843
+2244	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Acidobacteria	0.037887051
+2245	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Acidobacteria	0.047823828
+2246	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Acidobacteria	0.049593308
+2247	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Acidobacteria	0.036882499
+2248	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Acidobacteria	0.024207101
+2253	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Acidobacteria	0.045400336
+2254	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Acidobacteria	0.039928918
+2255	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Acidobacteria	0.029006008
+2256	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Acidobacteria	0.042308437
+2265	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Acidobacteria	0.04479291
+2266	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Acidobacteria	0.069668788
+2267	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Acidobacteria	0.067063676
+2268	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Acidobacteria	0.047026811
+2277	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Acidobacteria	0.084888533
+2278	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Acidobacteria	0.116420423
+2279	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Acidobacteria	0.092416526
+2280	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Acidobacteria	0.109731319
+2281	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Acidobacteria	0.108820359
+2282	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Acidobacteria	0.099239087
+2283	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Acidobacteria	0.011450904
+2284	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Acidobacteria	0.093262724
+2289	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Acidobacteria	0.149184226
+2290	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Acidobacteria	0.107799585
+2291	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Acidobacteria	0.082637363
+2292	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Acidobacteria	0.107974397
+2301	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Acidobacteria	0.075696206
+2302	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Acidobacteria	0.102898936
+2303	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Acidobacteria	0.092825142
+2304	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Acidobacteria	0.106530764
+2305	G01	Soil	Soil	GE	G0	Soil	0	Proteobacteria	0.260833666
+2306	G02	Soil	Soil	GE	G0	Soil	0	Proteobacteria	0.203992343
+2307	G03	Soil	Soil	GE	G0	Soil	0	Proteobacteria	0.266466813
+2308	G04	Soil	Soil	GE	G0	Soil	0	Proteobacteria	0.246477421
+2309	G151	Soil	Soil	GE	G15	Soil	15	Proteobacteria	0.290286165
+2310	G152	Soil	Soil	GE	G15	Soil	15	Proteobacteria	0.306901338
+2311	G153	Soil	Soil	GE	G15	Soil	15	Proteobacteria	0.325768548
+2312	G154	Soil	Soil	GE	G15	Soil	15	Proteobacteria	0.299752947
+2313	G281	Soil	Soil	GE	G28	Soil	28	Proteobacteria	0.197749679
+2314	G282	Soil	Soil	GE	G28	Soil	28	Proteobacteria	0.249842926
+2315	G283	Soil	Soil	GE	G28	Soil	28	Proteobacteria	0.229412871
+2316	G284	Soil	Soil	GE	G28	Soil	28	Proteobacteria	0.19862291
+2317	G361	Soil	Soil	GE	G36	Soil	36	Proteobacteria	0.167108218
+2318	G362	Soil	Soil	GE	G36	Soil	36	Proteobacteria	0.26721574
+2319	G363	Soil	Soil	GE	G36	Soil	36	Proteobacteria	0.262050881
+2320	G364	Soil	Soil	GE	G36	Soil	36	Proteobacteria	0.248562595
+2321	G51	Soil	Soil	GE	G5	Soil	5	Proteobacteria	0.246566761
+2322	G52	Soil	Soil	GE	G5	Soil	5	Proteobacteria	0.212815728
+2323	G53	Soil	Soil	GE	G5	Soil	5	Proteobacteria	0.210059132
+2324	G54	Soil	Soil	GE	G5	Soil	5	Proteobacteria	0.233838133
+2333	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Proteobacteria	0.371051105
+2334	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Proteobacteria	0.395974216
+2335	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Proteobacteria	0.423835686
+2336	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Proteobacteria	0.323857707
+2337	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Proteobacteria	0.344730867
+2338	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Proteobacteria	0.365128287
+2339	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Proteobacteria	0.368183152
+2340	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Proteobacteria	0.291696037
+2345	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Proteobacteria	0.353440201
+2346	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Proteobacteria	0.31838559
+2347	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Proteobacteria	0.252922195
+2348	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Proteobacteria	0.327863547
+2357	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Proteobacteria	0.260347835
+2358	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Proteobacteria	0.288423885
+2359	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Proteobacteria	0.338011355
+2360	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Proteobacteria	0.27797152
+2369	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Proteobacteria	0.067977763
+2370	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Proteobacteria	0.280099032
+2371	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Proteobacteria	0.381406668
+2372	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Proteobacteria	0.183330304
+2373	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Proteobacteria	0.246868506
+2374	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Proteobacteria	0.240200553
+2375	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Proteobacteria	0.203359919
+2376	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Proteobacteria	0.198324842
+2381	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Proteobacteria	0.234496124
+2382	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Proteobacteria	0.345690657
+2383	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Proteobacteria	0.32828352
+2384	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Proteobacteria	0.274631529
+2393	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Proteobacteria	0.212975539
+2394	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Proteobacteria	0.224125741
+2395	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Proteobacteria	0.255333679
+2396	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Proteobacteria	0.181212069
+2405	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Proteobacteria	0.22639167
+2406	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Proteobacteria	0.348927302
+2407	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Proteobacteria	0.402630214
+2408	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Proteobacteria	0.345341532
+2409	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Proteobacteria	0.294690748
+2410	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Proteobacteria	0.310559338
+2411	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Proteobacteria	0.172211643
+2412	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Proteobacteria	0.300730161
+2417	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Proteobacteria	0.325748068
+2418	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Proteobacteria	0.350267884
+2419	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Proteobacteria	0.353752914
+2420	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Proteobacteria	0.351353514
+2429	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Proteobacteria	0.232453752
+2430	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Proteobacteria	0.248763298
+2431	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Proteobacteria	0.235626881
+2432	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Proteobacteria	0.260711624
+2433	G01	Soil	Soil	GE	G0	Soil	0	Actinobacteria	0.258122669
+2434	G02	Soil	Soil	GE	G0	Soil	0	Actinobacteria	0.387134263
+2435	G03	Soil	Soil	GE	G0	Soil	0	Actinobacteria	0.319920622
+2436	G04	Soil	Soil	GE	G0	Soil	0	Actinobacteria	0.343033885
+2437	G151	Soil	Soil	GE	G15	Soil	15	Actinobacteria	0.227109515
+2438	G152	Soil	Soil	GE	G15	Soil	15	Actinobacteria	0.183038422
+2439	G153	Soil	Soil	GE	G15	Soil	15	Actinobacteria	0.232231179
+2440	G154	Soil	Soil	GE	G15	Soil	15	Actinobacteria	0.150071162
+2441	G281	Soil	Soil	GE	G28	Soil	28	Actinobacteria	0.383605975
+2442	G282	Soil	Soil	GE	G28	Soil	28	Actinobacteria	0.305324118
+2443	G283	Soil	Soil	GE	G28	Soil	28	Actinobacteria	0.203346584
+2444	G284	Soil	Soil	GE	G28	Soil	28	Actinobacteria	0.367756074
+2445	G361	Soil	Soil	GE	G36	Soil	36	Actinobacteria	0.189580279
+2446	G362	Soil	Soil	GE	G36	Soil	36	Actinobacteria	0.149050561
+2447	G363	Soil	Soil	GE	G36	Soil	36	Actinobacteria	0.205650974
+2448	G364	Soil	Soil	GE	G36	Soil	36	Actinobacteria	0.300980653
+2449	G51	Soil	Soil	GE	G5	Soil	5	Actinobacteria	0.233155046
+2450	G52	Soil	Soil	GE	G5	Soil	5	Actinobacteria	0.458935042
+2451	G53	Soil	Soil	GE	G5	Soil	5	Actinobacteria	0.450882935
+2452	G54	Soil	Soil	GE	G5	Soil	5	Actinobacteria	0.277832274
+2461	RBG15D1	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Actinobacteria	0.281090132
+2462	RBG15D2	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Actinobacteria	0.256693162
+2463	RBG15D3	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Actinobacteria	0.212509811
+2464	RBG15D4	Rhizoplane	Stipa grandis	GE	RB.G15D	dominant	15	Actinobacteria	0.327582791
+2465	RBG28D1	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Actinobacteria	0.333938827
+2466	RBG28D2	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Actinobacteria	0.370758783
+2467	RBG28D3	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Actinobacteria	0.392957146
+2468	RBG28D4	Rhizoplane	Stipa grandis	GE	RB.G28D	dominant	28	Actinobacteria	0.322790423
+2473	RBG36D1	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Actinobacteria	0.30094736
+2474	RBG36D2	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Actinobacteria	0.355199593
+2475	RBG36D3	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Actinobacteria	0.147990949
+2476	RBG36D4	Rhizoplane	Stipa grandis	GE	RB.G36D	non-d	36	Actinobacteria	0.302770849
+2485	RBG5D1	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Actinobacteria	0.400697785
+2486	RBG5D2	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Actinobacteria	0.379583627
+2487	RBG5D3	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Actinobacteria	0.310473815
+2488	RBG5D4	Rhizoplane	Stipa grandis	GE	RB.G5D	non-d	5	Actinobacteria	0.405696019
+2497	RG15D1	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Actinobacteria	0.102383933
+2498	RG15D2	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Actinobacteria	0.307986536
+2499	RG15D3	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Actinobacteria	0.244114002
+2500	RG15D4	Endosphere	Stipa grandis	GE	R.G15D	dominant	15	Actinobacteria	0.10904078
+2501	RG28D1	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Actinobacteria	0.25443027
+2502	RG28D2	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Actinobacteria	0.229532542
+2503	RG28D3	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Actinobacteria	0.383654596
+2504	RG28D4	Endosphere	Stipa grandis	GE	R.G28D	dominant	28	Actinobacteria	0.367334418
+2509	RG36D1	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Actinobacteria	0.480972516
+2510	RG36D2	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Actinobacteria	0.404729684
+2511	RG36D3	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Actinobacteria	0.388379344
+2512	RG36D4	Endosphere	Stipa grandis	GE	R.G36D	non-d	36	Actinobacteria	0.240936869
+2521	RG5Z1	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Actinobacteria	0.475285015
+2522	RG5Z2	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Actinobacteria	0.47776962
+2523	RG5Z3	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Actinobacteria	0.303507526
+2524	RG5Z4	Endosphere	Stipa grandis	GE	R.G5Z	non-d	5	Actinobacteria	0.552354902
+2533	RJG15D1	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Actinobacteria	0.149806434
+2534	RJG15D2	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Actinobacteria	0.30365492
+2535	RJG15D3	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Actinobacteria	0.311437044
+2536	RJG15D4	Rhizosphere	Stipa grandis	GE	RJ.G15D	dominant	15	Actinobacteria	0.341424943
+2537	RJG28D1	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Actinobacteria	0.399677905
+2538	RJG28D2	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Actinobacteria	0.383006274
+2539	RJG28D3	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Actinobacteria	0.043787262
+2540	RJG28D4	Rhizosphere	Stipa grandis	GE	RJ.G28D	dominant	28	Actinobacteria	0.398285592
+2545	RJG36D1	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Actinobacteria	0.310819737
+2546	RJG36D2	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Actinobacteria	0.337910239
+2547	RJG36D3	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Actinobacteria	0.429397269
+2548	RJG36D4	Rhizosphere	Stipa grandis	GE	RJ.G36D	non-d	36	Actinobacteria	0.34909988
+2557	RJG5D1	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Actinobacteria	0.506208417
+2558	RJG5D2	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Actinobacteria	0.429986702
+2559	RJG5D3	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Actinobacteria	0.447342026
+2560	RJG5D4	Rhizosphere	Stipa grandis	GE	RJ.G5D	non-d	5	Actinobacteria	0.388878539
